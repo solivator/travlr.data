@@ -1,7 +1,7 @@
 {
   "id": "us-states",
   "name": "United States Feature Collection",
-  "index": 7,
+  "index": 8,
   "title": "US states and territories",
   "description": "GeoJSON FeatureCollection representing U.S. states and territories with polygon geometries for mapping and selection.",
   "markercount": 52

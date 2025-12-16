@@ -10,11 +10,12 @@ Agentic environment for TRAVLR's explore section. Datasets are organized by fold
 ## Current datasets
 1. **Lord of the Rings Filming Locations** (`lotr-locations`) — 131 markers.
 2. **Reddit Travel Locations** (`reddit-travel-locations`) — 26,479 markers.
-3. **UNESCO World Heritage Sites** (`unesco-sites`) — 1,052 markers.
-4. **Country Bounding Boxes** (`country-bounds`) — 202 entries.
-5. **Meteorite Landings** (`meteorites`) — 45,716 entries.
-6. **Star Wars Filming & Story Locations** (`star-wars-locations`) — 62 markers.
-7. **United States Feature Collection** (`us-states`) — 52 features.
+3. **UNESCO World Heritage Sites - Natural** (`unesco-nature`) — 203 markers.
+4. **UNESCO World Heritage Sites - Human** (`unesco-human`) — 849 markers.
+5. **Country and US Bounding Boxes** (`country-bounds`) — 254 entries.
+6. **Meteorite Landings** (`meteorites`) — 45,716 entries.
+7. **Star Wars Filming & Story Locations** (`star-wars-locations`) — 62 markers.
+8. **United States Feature Collection** (`us-states`) — 52 features.
 
 ## Adding a dataset
 1. Create `datasets/<dataset-id>/` and place the source JSON in `data.json` without altering its structure unless necessary.

@@ -1,7 +1,9 @@
 {
   "id": "star-wars-locations",
   "name": "Star Wars Filming & Story Locations",
-  "index": 7,
+  "type": "point",
+  "category": "Film & TV",
+  "index": 6,
   "title": "Galaxy far, far away",
   "description": "Combined real-world filming sites and in-universe Star Wars locations with coordinates for mapping.",
   "markercount": 62

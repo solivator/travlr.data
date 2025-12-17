@@ -1,7 +1,9 @@
 {
   "id": "meteorites",
   "name": "Meteorite Landings",
-  "index": 6,
+  "type": "point",
+  "category": "Science",
+  "index": 5,
   "title": "Meteorite impacts",
   "description": "NASA meteorite landing records including mass, year, location, and fall status.",
   "markercount": 45716

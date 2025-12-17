@@ -1,7 +1,9 @@
 {
   "id": "country-bounds",
   "name": "Country and US Bounding Boxes",
-  "index": 5,
+  "type": "polygon",
+  "category": "Boundaries",
+  "index": 8,
   "title": "Country and state boundary extents",
   "description": "Geographic bounding boxes for countries and U.S. states/territories keyed by ISO-like codes, useful for framing maps or constraining searches.",
   "markercount": 254

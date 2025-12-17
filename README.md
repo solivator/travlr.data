@@ -9,15 +9,18 @@ Agentic environment for TRAVLR's explore section. Datasets are organized by fold
 - `tools/` — helper scripts for dataset maintenance and asset management.
 
 ## Current datasets
-1. **Lord of the Rings Filming Locations** (`lotr-locations`) — 131 markers.
-2. **Reddit Travel Locations** (`reddit-travel-locations`) — 26,479 markers.
-3. **UNESCO World Heritage Sites - Natural** (`unesco-nature`) — 203 markers.
-4. **UNESCO World Heritage Sites - Human** (`unesco-human`) — 849 markers.
-5. **Country and US Bounding Boxes** (`country-bounds`) — 254 entries.
-6. **Meteorite Landings** (`meteorites`) — 45,716 entries.
-7. **Star Wars Filming & Story Locations** (`star-wars-locations`) — 62 markers.
-8. **United States Feature Collection** (`us-states`) — 52 features.
-9. **Harry Potter Filming Locations** (`harry-potter-locations`) — 74 markers with per-entry confidence ratings.
+### Point datasets
+1. **Lord of the Rings Filming Locations** (`lotr-locations`) — 131 markers (Category: Film & TV).
+2. **Reddit Travel Locations** (`reddit-travel-locations`) — 26,479 markers (Category: Travel).
+3. **UNESCO World Heritage Sites - Natural** (`unesco-nature`) — 203 markers (Category: Heritage).
+4. **UNESCO World Heritage Sites - Human** (`unesco-human`) — 849 markers (Category: Heritage).
+5. **Meteorite Landings** (`meteorites`) — 45,716 markers (Category: Science).
+6. **Star Wars Filming & Story Locations** (`star-wars-locations`) — 62 markers (Category: Film & TV).
+7. **Harry Potter Filming Locations** (`harry-potter-locations`) — 74 markers with per-entry confidence ratings (Category: Film & TV).
+
+### Polygon datasets
+8. **Country and US Bounding Boxes** (`country-bounds`) — 254 entries (Category: Boundaries).
+9. **United States Feature Collection** (`us-states`) — 52 features (Category: Boundaries).
 
 ## Adding a dataset
 1. Create `datasets/<dataset-id>/` and place the source JSON in `data.json` without altering its structure unless necessary.

@@ -1,6 +1,8 @@
 {
   "id": "unesco-human",
   "name": "UNESCO World Heritage Sites - Human",
+  "type": "point",
+  "category": "Heritage",
   "index": 4,
   "title": "Human heritage map",
   "description": "Cultural and mixed UNESCO World Heritage sites, including coordinates, descriptions, and source links.",

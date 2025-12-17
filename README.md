@@ -17,7 +17,7 @@ Agentic environment for TRAVLR's explore section. Datasets are organized by fold
 5. **Meteorite Landings** (`meteorites`) — 45,716 markers (Category: Science).
 6. **Star Wars Filming & Story Locations** (`star-wars-locations`) — 62 markers (Category: Film & TV).
 7. **Harry Potter Filming Locations** (`harry-potter-locations`) — 74 markers with per-entry confidence ratings (Category: Film & TV).
-8. **Game of Thrones Filming Locations** (`game-of-thrones-locations`) — 118 markers with cFactor confidence scores for each site (Category: Film & TV).
+8. **Game of Thrones Filming Locations** (`game-of-thrones-locations`) — 300 markers with cFactor confidence scores for each site (Category: Film & TV).
 9. **World Pyramids** (`pyramids`) — 122 markers spanning ancient through modern pyramids (Category: Architecture).
 10. **Iconic Waterfalls** (`waterfalls`) — 1100 markers with heights and confidence factors (Category: Nature).
 11. **Traditional Dishes and Origins** (`traditional_food`) — 800 markers tying iconic recipes to the precise venues where they originated, each with a cFactor confidence note (Category: Food & Culture).

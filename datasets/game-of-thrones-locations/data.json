@@ -1178,5 +1178,1825 @@
     "cFactor": 0.59,
     "season": 5,
     "episode": "S05E06 - Unbowed, Unbent, Unbroken"
+  },
+  {
+    "lat": 43.4479,
+    "lon": -2.7859,
+    "location": "San Juan de Gaztelugatxe Steps",
+    "country": "Spain",
+    "scene": "Steep causeway leading to Dragonstone's gate during Daenerys' return",
+    "cFactor": 0.95,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 43.2973,
+    "lon": -2.2553,
+    "location": "Itzurun Beach (Zumaia)",
+    "country": "Spain",
+    "scene": "Dragonstone surf where Daenerys first lands and Jon explores dragonglass",
+    "cFactor": 0.94,
+    "season": 7,
+    "episode": "S07E01 - Dragonstone"
+  },
+  {
+    "lat": 43.391,
+    "lon": -2.9819,
+    "location": "Barrika Beach Headland",
+    "country": "Spain",
+    "scene": "Clifftop where Jon and Theon discuss loyalty before sailing for Winterfell",
+    "cFactor": 0.86,
+    "season": 7,
+    "episode": "S07E07 - The Dragon and the Wolf"
+  },
+  {
+    "lat": 42.1947,
+    "lon": -1.5091,
+    "location": "Bardenas Reales Cliff Edge",
+    "country": "Spain",
+    "scene": "Arid ridges used for wide Dothraki Sea rides toward Vaes Dothrak",
+    "cFactor": 0.78,
+    "season": 6,
+    "episode": "S06E09 - Battle of the Bastards"
+  },
+  {
+    "lat": 36.8345,
+    "lon": -2.101,
+    "location": "Las Salinas Desert Track",
+    "country": "Spain",
+    "scene": "Dusty path Daenerys' khalasar follows after burning the Dosh Khaleen",
+    "cFactor": 0.8,
+    "season": 6,
+    "episode": "S06E09 - Battle of the Bastards"
+  },
+  {
+    "lat": 37.8081,
+    "lon": -4.7615,
+    "location": "Castillo de Almod\u00f3var del R\u00edo Keep",
+    "country": "Spain",
+    "scene": "High ramparts representing the outer walls of Casterly Rock",
+    "cFactor": 0.9,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 39.4586,
+    "lon": -5.8799,
+    "location": "Trujillo Castle Upper Walls",
+    "country": "Spain",
+    "scene": "Stone terraces used for Lannister defenses overlooking Casterly Rock harbor",
+    "cFactor": 0.82,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 37.4383,
+    "lon": -6.0406,
+    "location": "Santiponce Amphitheater Tunnels",
+    "country": "Spain",
+    "scene": "Subterranean passages beneath the Dragonpit where negotiations begin",
+    "cFactor": 0.83,
+    "season": 7,
+    "episode": "S07E07 - The Dragon and the Wolf"
+  },
+  {
+    "lat": 37.4369,
+    "lon": -6.0435,
+    "location": "It\u00e1lica Outer Ruins",
+    "country": "Spain",
+    "scene": "Crumbling seats of the Dragonpit where Westerosi lords choose a ruler",
+    "cFactor": 0.88,
+    "season": 8,
+    "episode": "S08E06 - The Iron Throne"
+  },
+  {
+    "lat": 41.9867,
+    "lon": 2.8249,
+    "location": "Girona Arab Baths Courtyard",
+    "country": "Spain",
+    "scene": "Bathhouse Arya flees through while wounded in Braavos",
+    "cFactor": 0.77,
+    "season": 6,
+    "episode": "S06E07 - The Broken Man"
+  },
+  {
+    "lat": 34.0668,
+    "lon": -5.5557,
+    "location": "Volubilis Arches",
+    "country": "Morocco",
+    "scene": "Ruined arches depicting Pentos outskirts visited by Illyrio",
+    "cFactor": 0.58,
+    "season": 1,
+    "episode": "S01E10 - Fire and Blood"
+  },
+  {
+    "lat": 31.5136,
+    "lon": -9.7705,
+    "location": "Essaouira Ramparts North",
+    "country": "Morocco",
+    "scene": "Stone walls of Astapor where Daenerys inspects the Unsullied",
+    "cFactor": 0.74,
+    "season": 3,
+    "episode": "S03E03 - Walk of Punishment"
+  },
+  {
+    "lat": 30.9185,
+    "lon": -6.9034,
+    "location": "Ouarzazate Backlot Streets",
+    "country": "Morocco",
+    "scene": "Dusty alleys adapted for Yunkai's slave markets",
+    "cFactor": 0.62,
+    "season": 3,
+    "episode": "S03E09 - The Rains of Castamere"
+  },
+  {
+    "lat": 55.1157,
+    "lon": -6.8644,
+    "location": "Binevenagh Lake Shore",
+    "country": "Northern Ireland",
+    "scene": "Lakeside plateau where Drogon drops Daenerys in the Dothraki Sea",
+    "cFactor": 0.91,
+    "season": 5,
+    "episode": "S05E10 - Mother's Mercy"
+  },
+  {
+    "lat": 55.2562,
+    "lon": -6.1775,
+    "location": "Fair Head Summit",
+    "country": "Northern Ireland",
+    "scene": "Cliff-top meeting place for Jon and Theon before sailing for the North",
+    "cFactor": 0.87,
+    "season": 7,
+    "episode": "S07E07 - The Dragon and the Wolf"
+  },
+  {
+    "lat": 55.194,
+    "lon": -6.119,
+    "location": "Murlough Bay Saddle",
+    "country": "Northern Ireland",
+    "scene": "Seaside overlook where Davos smuggles Gendry past Stannis' camp",
+    "cFactor": 0.72,
+    "season": 3,
+    "episode": "S03E04 - And Now His Watch Is Ended"
+  },
+  {
+    "lat": 54.8598,
+    "lon": -6.2029,
+    "location": "Carnlough Harbour Steps",
+    "country": "Northern Ireland",
+    "scene": "Braavos canal stairs Arya climbs after being stabbed",
+    "cFactor": 0.84,
+    "season": 6,
+    "episode": "S06E07 - The Broken Man"
+  },
+  {
+    "lat": 55.1324,
+    "lon": -6.9132,
+    "location": "Cushendun Rocky Shore",
+    "country": "Northern Ireland",
+    "scene": "Storm-swept beach near the cave where Melisandre births the shadow",
+    "cFactor": 0.83,
+    "season": 2,
+    "episode": "S02E04 - Garden of Bones"
+  },
+  {
+    "lat": 54.9733,
+    "lon": -5.9984,
+    "location": "Glenarm Castle Avenue",
+    "country": "Northern Ireland",
+    "scene": "Wooded drive doubling for Northern forests patrolled by the Starks",
+    "cFactor": 0.6,
+    "season": 4,
+    "episode": "S04E01 - Two Swords"
+  },
+  {
+    "lat": 54.7002,
+    "lon": -6.3056,
+    "location": "Lough Neagh Shore",
+    "country": "Northern Ireland",
+    "scene": "Misty waterfront used as Slaver's Bay shallows near Meereen",
+    "cFactor": 0.58,
+    "season": 6,
+    "episode": "S06E02 - Home"
+  },
+  {
+    "lat": 54.1621,
+    "lon": -6.2024,
+    "location": "Leitrim Lodge Forest",
+    "country": "Northern Ireland",
+    "scene": "Shaded trail where the Hound travels through the Riverlands",
+    "cFactor": 0.67,
+    "season": 4,
+    "episode": "S04E03 - Breaker of Chains"
+  },
+  {
+    "lat": 55.0355,
+    "lon": -6.6771,
+    "location": "Ballinrees Bridge Crossing",
+    "country": "Northern Ireland",
+    "scene": "Crossing point near Riverrun as Jaime rides to negotiate with the Blackfish",
+    "cFactor": 0.55,
+    "season": 6,
+    "episode": "S06E06 - Blood of My Blood"
+  },
+  {
+    "lat": 54.2429,
+    "lon": -5.8871,
+    "location": "Tollymore Hermitage Bridge",
+    "country": "Northern Ireland",
+    "scene": "Forest bridge where the Stark children find the direwolf pups",
+    "cFactor": 0.93,
+    "season": 1,
+    "episode": "S01E01 - Winter Is Coming"
+  },
+  {
+    "lat": 54.8815,
+    "lon": -6.317,
+    "location": "Shillanavogy Valley Track",
+    "country": "Northern Ireland",
+    "scene": "Grassy road across the Dothraki Sea as Khal Drogo leads his khalasar",
+    "cFactor": 0.89,
+    "season": 1,
+    "episode": "S01E02 - The Kingsroad"
+  },
+  {
+    "lat": 54.8643,
+    "lon": -6.0338,
+    "location": "Magheramorne Quarry Rim",
+    "country": "Northern Ireland",
+    "scene": "Clifftop edge looking toward Castle Black and the Wall set",
+    "cFactor": 0.81,
+    "season": 4,
+    "episode": "S04E10 - The Children"
+  },
+  {
+    "lat": 55.1676,
+    "lon": -6.7364,
+    "location": "Portstewart Strand Dunes",
+    "country": "Northern Ireland",
+    "scene": "Sweeping dunes representing the Dornish coast where Jaime lands",
+    "cFactor": 0.79,
+    "season": 5,
+    "episode": "S05E04 - Sons of the Harpy"
+  },
+  {
+    "lat": 55.1666,
+    "lon": -6.8289,
+    "location": "Downhill Beach Mussenden",
+    "country": "Northern Ireland",
+    "scene": "Blackened beach near Dragonstone where Melisandre burns the statues",
+    "cFactor": 0.92,
+    "season": 2,
+    "episode": "S02E01 - The North Remembers"
+  },
+  {
+    "lat": 55.2217,
+    "lon": -6.3318,
+    "location": "Larrybane Headland",
+    "country": "Northern Ireland",
+    "scene": "Renly's camp and tournament ground on the Stormlands coast",
+    "cFactor": 0.9,
+    "season": 2,
+    "episode": "S02E03 - What Is Dead May Never Die"
+  },
+  {
+    "lat": 55.2338,
+    "lon": -6.3151,
+    "location": "Dunseverick Harbour",
+    "country": "Northern Ireland",
+    "scene": "Stony harbor on the Iron Islands approached by Yara's longships",
+    "cFactor": 0.63,
+    "season": 2,
+    "episode": "S02E02 - The Night Lands"
+  },
+  {
+    "lat": 54.7476,
+    "lon": -6.466,
+    "location": "Toome Canal Towpath",
+    "country": "Northern Ireland",
+    "scene": "Canal path used for Riverlands marches by the Brotherhood Without Banners",
+    "cFactor": 0.57,
+    "season": 3,
+    "episode": "S03E05 - Kissed by Fire"
+  },
+  {
+    "lat": 64.0749,
+    "lon": -16.2218,
+    "location": "Vatnaj\u00f6kull Glacier Rim",
+    "country": "Iceland",
+    "scene": "Icy ridges framing the Fist of the First Men beyond the Wall",
+    "cFactor": 0.88,
+    "season": 2,
+    "episode": "S02E10 - Valar Morghulis"
+  },
+  {
+    "lat": 65.6132,
+    "lon": -16.8837,
+    "location": "Hverfjall Crater Rim",
+    "country": "Iceland",
+    "scene": "Ash slope near Mance Rayder's wildling camp",
+    "cFactor": 0.69,
+    "season": 3,
+    "episode": "S03E05 - Kissed by Fire"
+  },
+  {
+    "lat": 65.6054,
+    "lon": -16.8724,
+    "location": "Grj\u00f3tagj\u00e1 Rift Top",
+    "country": "Iceland",
+    "scene": "Rock ledges above Jon and Ygritte's cave as they leave the hot spring",
+    "cFactor": 0.71,
+    "season": 3,
+    "episode": "S03E05 - Kissed by Fire"
+  },
+  {
+    "lat": 63.9239,
+    "lon": -19.0347,
+    "location": "Hofdaholar Valley",
+    "country": "Iceland",
+    "scene": "Snowy valley holding a Free Folk encampment south of the Wall",
+    "cFactor": 0.65,
+    "season": 3,
+    "episode": "S03E07 - The Bear and the Maiden Fair"
+  },
+  {
+    "lat": 64.1104,
+    "lon": -19.3186,
+    "location": "\u00dej\u00f3rs\u00e1rdalur Lava Field",
+    "country": "Iceland",
+    "scene": "Charred landscape where Wights attack a wildling scouting party",
+    "cFactor": 0.83,
+    "season": 5,
+    "episode": "S05E08 - Hardhome"
+  },
+  {
+    "lat": 64.2555,
+    "lon": -21.1291,
+    "location": "\u00deingvellir Almannagj\u00e1 North",
+    "country": "Iceland",
+    "scene": "Campground for Brienne and Podrick as they track Sansa",
+    "cFactor": 0.64,
+    "season": 4,
+    "episode": "S04E05 - First of His Name"
+  },
+  {
+    "lat": 63.7124,
+    "lon": -19.6167,
+    "location": "Stakkholtsgj\u00e1 Ravine Mouth",
+    "country": "Iceland",
+    "scene": "Canyon approach for the wight-hunting party beyond the Wall",
+    "cFactor": 0.9,
+    "season": 7,
+    "episode": "S07E06 - Beyond the Wall"
+  },
+  {
+    "lat": 65.6131,
+    "lon": -16.9128,
+    "location": "Dimmuborgir Spires",
+    "country": "Iceland",
+    "scene": "Twisted lava spires forming Mance Rayder's wildling encampment",
+    "cFactor": 0.82,
+    "season": 3,
+    "episode": "S03E01 - Valar Dohaeris"
+  },
+  {
+    "lat": 64.2467,
+    "lon": -14.9688,
+    "location": "Vestrahorn Beach",
+    "country": "Iceland",
+    "scene": "Black sand shoreline leading to Eastwatch by the Sea",
+    "cFactor": 0.76,
+    "season": 7,
+    "episode": "S07E06 - Beyond the Wall"
+  },
+  {
+    "lat": 63.532,
+    "lon": -19.5113,
+    "location": "Sk\u00f3gafoss Mist Trail",
+    "country": "Iceland",
+    "scene": "Spray-filled trail used for the Northern host marching toward Winterfell",
+    "cFactor": 0.7,
+    "season": 8,
+    "episode": "S08E01 - Winterfell"
+  },
+  {
+    "lat": 64.9275,
+    "lon": -23.306,
+    "location": "Kirkjufell Lakeshore",
+    "country": "Iceland",
+    "scene": "Arrowhead Mountain reflected during Jon's wight-capturing mission",
+    "cFactor": 0.85,
+    "season": 7,
+    "episode": "S07E06 - Beyond the Wall"
+  },
+  {
+    "lat": 63.9322,
+    "lon": -19.0481,
+    "location": "\u00c1lftavatn Lakeside",
+    "country": "Iceland",
+    "scene": "Snowy camp where the Northern party rests beyond the Wall",
+    "cFactor": 0.6,
+    "season": 7,
+    "episode": "S07E06 - Beyond the Wall"
+  },
+  {
+    "lat": 65.6,
+    "lon": -16.95,
+    "location": "M\u00fdvatn Snow Flats",
+    "country": "Iceland",
+    "scene": "Frozen expanse as Sam witnesses White Walker movement",
+    "cFactor": 0.73,
+    "season": 3,
+    "episode": "S03E02 - Dark Wings, Dark Words"
+  },
+  {
+    "lat": 63.8585,
+    "lon": -22.6755,
+    "location": "Reykjanes Basalt Cliffs",
+    "country": "Iceland",
+    "scene": "Coastal cliffs representing Hardhome's storm-lashed shore",
+    "cFactor": 0.62,
+    "season": 5,
+    "episode": "S05E08 - Hardhome"
+  },
+  {
+    "lat": 35.897,
+    "lon": -14.5111,
+    "location": "Fort Manoel Parade Ground",
+    "country": "Malta",
+    "scene": "Execution square in King's Landing where Ned makes a confession",
+    "cFactor": 0.86,
+    "season": 1,
+    "episode": "S01E09 - Baelor"
+  },
+  {
+    "lat": 35.8843,
+    "lon": -14.4041,
+    "location": "Mdina Ditch Gardens",
+    "country": "Malta",
+    "scene": "Lush path for King's Landing promenades with Sansa and Septa Mordane",
+    "cFactor": 0.8,
+    "season": 1,
+    "episode": "S01E04 - Cripples, Bastards, and Broken Things"
+  },
+  {
+    "lat": 35.8917,
+    "lon": -14.4338,
+    "location": "San Anton Palace Stables",
+    "country": "Malta",
+    "scene": "Stable yard of the Red Keep where Joffrey taunts the Stark girls",
+    "cFactor": 0.79,
+    "season": 1,
+    "episode": "S01E03 - Lord Snow"
+  },
+  {
+    "lat": 35.8667,
+    "lon": -14.3529,
+    "location": "Fomm ir-Ri\u0127 Clifftop",
+    "country": "Malta",
+    "scene": "Sea cliff overlook used for composite shots of Drogon flying west",
+    "cFactor": 0.57,
+    "season": 5,
+    "episode": "S05E10 - Mother's Mercy"
+  },
+  {
+    "lat": 36.0181,
+    "lon": 14.2914,
+    "location": "M\u0121arr ix-Xini Bay",
+    "country": "Malta",
+    "scene": "Rocky inlet doubling as the coast near Qarth for Davos' escape",
+    "cFactor": 0.61,
+    "season": 1,
+    "episode": "S01E10 - Fire and Blood"
+  },
+  {
+    "lat": 35.8899,
+    "lon": -14.4049,
+    "location": "Pjazza Mesquita Gate",
+    "country": "Malta",
+    "scene": "Littlefinger's brothel exterior where the City Watch seize Gendry",
+    "cFactor": 0.88,
+    "season": 1,
+    "episode": "S01E03 - Lord Snow"
+  },
+  {
+    "lat": 54.7503,
+    "lon": -6.4615,
+    "location": "Toome Canal",
+    "country": "Northern Ireland",
+    "scene": "Riverrun supply route where Robb's forces camp along the water",
+    "cFactor": 0.9,
+    "season": 3,
+    "episode": "S03E02 - Dark Wings, Dark Words"
+  },
+  {
+    "lat": 54.2461,
+    "lon": -7.7603,
+    "location": "Pollnagollum Cave",
+    "country": "Northern Ireland",
+    "scene": "Brotherhood Without Banners hideout where Arya meets Beric Dondarrion",
+    "cFactor": 0.92,
+    "season": 3,
+    "episode": "S03E03 - Walk of Punishment"
+  },
+  {
+    "lat": 55.2107,
+    "lon": -6.1191,
+    "location": "Murlough Bay",
+    "country": "Northern Ireland",
+    "scene": "Coastal road where Theon rides with Yara and where Davos lands after Blackwater",
+    "cFactor": 0.89,
+    "season": 3,
+    "episode": "S03E01 - Valar Dohaeris"
+  },
+  {
+    "lat": 55.2413,
+    "lon": -6.1608,
+    "location": "Fair Head Cliffs",
+    "country": "Northern Ireland",
+    "scene": "Clifftop where Jon urges Theon to save Yara before sailing for Dragonstone",
+    "cFactor": 0.91,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 55.1332,
+    "lon": -6.9311,
+    "location": "Binevenagh Plateau",
+    "country": "Northern Ireland",
+    "scene": "Grassland where Drogon drops Daenerys after escaping the Meereen fighting pit",
+    "cFactor": 0.86,
+    "season": 5,
+    "episode": "S05E09 - The Dance of Dragons"
+  },
+  {
+    "lat": 54.3345,
+    "lon": -5.7105,
+    "location": "Quoile River",
+    "country": "Northern Ireland",
+    "scene": "Riverrun camp riverbank where Robb debates strategy with Catelyn",
+    "cFactor": 0.82,
+    "season": 3,
+    "episode": "S03E08 - Second Sons"
+  },
+  {
+    "lat": 54.4025,
+    "lon": -5.5751,
+    "location": "Audley's Castle",
+    "country": "Northern Ireland",
+    "scene": "Renly's camp near the coast when Catelyn arrives to treat with him",
+    "cFactor": 0.9,
+    "season": 2,
+    "episode": "S02E03 - What Is Dead May Never Die"
+  },
+  {
+    "lat": 54.7095,
+    "lon": -6.2709,
+    "location": "Shane's Castle",
+    "country": "Northern Ireland",
+    "scene": "Tournament grounds for the Hand's nameday celebration in the Seven Kingdoms",
+    "cFactor": 0.77,
+    "season": 1,
+    "episode": "S01E04 - Cripples, Bastards, and Broken Things"
+  },
+  {
+    "lat": 55.1698,
+    "lon": -6.7381,
+    "location": "Portstewart Strand",
+    "country": "Northern Ireland",
+    "scene": "Beach where Jaime and Bronn come ashore in Dorne before meeting the Sand Snakes",
+    "cFactor": 0.88,
+    "season": 5,
+    "episode": "S05E04 - Sons of the Harpy"
+  },
+  {
+    "lat": 55.1654,
+    "lon": -6.818,
+    "location": "Downhill Demesne",
+    "country": "Northern Ireland",
+    "scene": "Clifftop above the beach used for Melisandre's burning of the Seven idols on Dragonstone",
+    "cFactor": 0.83,
+    "season": 2,
+    "episode": "S02E01 - The North Remembers"
+  },
+  {
+    "lat": 54.3432,
+    "lon": -6.5895,
+    "location": "Gosford Castle",
+    "country": "Northern Ireland",
+    "scene": "Riverrun exterior seen near Robb Stark's war camp during the Riverlands campaign",
+    "cFactor": 0.74,
+    "season": 3,
+    "episode": "S03E09 - The Rains of Castamere"
+  },
+  {
+    "lat": 37.3772,
+    "lon": -5.9869,
+    "location": "Plaza de Espa\u00f1a",
+    "country": "Spain",
+    "scene": "Water Gardens colonnade where Jaime and Bronn stroll before encountering the Sand Snakes",
+    "cFactor": 0.89,
+    "season": 5,
+    "episode": "S05E02 - The House of Black and White"
+  },
+  {
+    "lat": 37.383,
+    "lon": -5.991,
+    "location": "Royal Alc\u00e1zar of Seville",
+    "country": "Spain",
+    "scene": "Doran Martell greets Jaime in the Water Gardens' Ambassador's Hall",
+    "cFactor": 0.9,
+    "season": 5,
+    "episode": "S05E02 - The House of Black and White"
+  },
+  {
+    "lat": 42.2,
+    "lon": -1.508,
+    "location": "Bardenas Reales",
+    "country": "Spain",
+    "scene": "Arid Dothraki Sea where Daenerys is taken to Vaes Dothrak",
+    "cFactor": 0.78,
+    "season": 6,
+    "episode": "S06E01 - The Red Woman"
+  },
+  {
+    "lat": 43.2954,
+    "lon": -2.2584,
+    "location": "Itzurun Beach",
+    "country": "Spain",
+    "scene": "Waves and black sand of Dragonstone where Jon and Davos arrive",
+    "cFactor": 0.94,
+    "season": 7,
+    "episode": "S07E01 - Dragonstone"
+  },
+  {
+    "lat": 43.4494,
+    "lon": -2.7858,
+    "location": "San Juan de Gaztelugatxe",
+    "country": "Spain",
+    "scene": "Steep stairway Daenerys climbs to reach the ancient fortress of Dragonstone",
+    "cFactor": 0.93,
+    "season": 7,
+    "episode": "S07E01 - Dragonstone"
+  },
+  {
+    "lat": 43.3976,
+    "lon": -2.9807,
+    "location": "Barrika Beach",
+    "country": "Spain",
+    "scene": "Dragonstone shoreline where Daenerys and Tyrion plan their campaign while watching the tide",
+    "cFactor": 0.85,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 39.4583,
+    "lon": -5.882,
+    "location": "Trujillo Castle",
+    "country": "Spain",
+    "scene": "Casterly Rock approach shown before Grey Worm leads the Unsullied attack",
+    "cFactor": 0.8,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 39.458,
+    "lon": -5.8812,
+    "location": "Plaza Mayor de Trujillo",
+    "country": "Spain",
+    "scene": "Market square where Euron parades his captives through King's Landing",
+    "cFactor": 0.76,
+    "season": 7,
+    "episode": "S07E02 - Stormborn"
+  },
+  {
+    "lat": 39.4758,
+    "lon": -6.3716,
+    "location": "C\u00e1ceres Old Town",
+    "country": "Spain",
+    "scene": "King's Landing backstreets patrolled by Lannister soldiers during Euron's triumph",
+    "cFactor": 0.79,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 37.877,
+    "lon": -4.7794,
+    "location": "Roman Bridge of C\u00f3rdoba",
+    "country": "Spain",
+    "scene": "Long Bridge of Volantis where Tyrion and Varys travel by barge",
+    "cFactor": 0.92,
+    "season": 5,
+    "episode": "S05E03 - High Sparrow"
+  },
+  {
+    "lat": 40.8036,
+    "lon": -2.0637,
+    "location": "Zafra Castle",
+    "country": "Spain",
+    "scene": "Tower of Joy in Bran's vision of young Ned confronting Ser Arthur Dayne",
+    "cFactor": 0.95,
+    "season": 6,
+    "episode": "S06E03 - Oathbreaker"
+  },
+  {
+    "lat": 41.6034,
+    "lon": 2.5827,
+    "location": "Castell de Santa Florentina",
+    "country": "Spain",
+    "scene": "Tarly family seat of Horn Hill when Sam returns with Gilly",
+    "cFactor": 0.9,
+    "season": 6,
+    "episode": "S06E06 - Blood of My Blood"
+  },
+  {
+    "lat": 41.9863,
+    "lon": 2.9874,
+    "location": "Monells Square",
+    "country": "Spain",
+    "scene": "Braavos market where Arya watches Lady Crane's troupe perform",
+    "cFactor": 0.84,
+    "season": 6,
+    "episode": "S06E07 - The Broken Man"
+  },
+  {
+    "lat": 41.983,
+    "lon": 2.8249,
+    "location": "Girona Arab Baths",
+    "country": "Spain",
+    "scene": "Bathhouse Arya crosses during the Waif's pursuit through Braavos",
+    "cFactor": 0.83,
+    "season": 6,
+    "episode": "S06E02 - Home"
+  },
+  {
+    "lat": 41.9839,
+    "lon": 2.826,
+    "location": "Girona Cathedral Steps",
+    "country": "Spain",
+    "scene": "Great Sept exterior used for the Tyrell procession halted by the Faith Militant",
+    "cFactor": 0.73,
+    "season": 6,
+    "episode": "S06E10 - The Winds of Winter"
+  },
+  {
+    "lat": 37.4352,
+    "lon": -6.0444,
+    "location": "It\u00e1lica Amphitheatre",
+    "country": "Spain",
+    "scene": "Dragonpit meeting ground where warring factions negotiate a truce",
+    "cFactor": 0.95,
+    "season": 7,
+    "episode": "S07E07 - The Dragon and the Wolf"
+  },
+  {
+    "lat": 63.447,
+    "lon": -19.1333,
+    "location": "H\u00f6f\u00f0abrekka",
+    "country": "Iceland",
+    "scene": "Snowy Frostfangs slope where the Lord of Bones captures Jon Snow",
+    "cFactor": 0.87,
+    "season": 2,
+    "episode": "S02E02 - The Night Lands"
+  },
+  {
+    "lat": 63.683,
+    "lon": -19.716,
+    "location": "Stakkholtsgj\u00e1 Canyon",
+    "country": "Iceland",
+    "scene": "Chasm where the wight hunts the ranging party beyond the Wall",
+    "cFactor": 0.93,
+    "season": 7,
+    "episode": "S07E06 - Beyond the Wall"
+  },
+  {
+    "lat": 63.7712,
+    "lon": -18.1727,
+    "location": "Fja\u00f0r\u00e1rglj\u00fafur Canyon",
+    "country": "Iceland",
+    "scene": "Frozen gorge flown over by Jon and Daenerys while touring the North",
+    "cFactor": 0.72,
+    "season": 8,
+    "episode": "S08E01 - Winterfell"
+  },
+  {
+    "lat": 65.6121,
+    "lon": -16.8831,
+    "location": "Grj\u00f3tagj\u00e1 Cave",
+    "country": "Iceland",
+    "scene": "Steaming grotto where Jon and Ygritte share a secret bath",
+    "cFactor": 0.96,
+    "season": 3,
+    "episode": "S03E05 - Kissed by Fire"
+  },
+  {
+    "lat": 65.6056,
+    "lon": -16.9297,
+    "location": "Dimmuborgir",
+    "country": "Iceland",
+    "scene": "Wildling camp of Mance Rayder during negotiations with Jon Snow",
+    "cFactor": 0.91,
+    "season": 3,
+    "episode": "S03E01 - Valar Dohaeris"
+  },
+  {
+    "lat": 65.6046,
+    "lon": -17.0124,
+    "location": "M\u00fdvatn Pseudocraters",
+    "country": "Iceland",
+    "scene": "Frozen fields where wildlings raid small villages south of the Wall",
+    "cFactor": 0.69,
+    "season": 3,
+    "episode": "S03E10 - Mhysa"
+  },
+  {
+    "lat": 63.68,
+    "lon": -19.487,
+    "location": "\u00de\u00f3rsm\u00f6rk Valley",
+    "country": "Iceland",
+    "scene": "Mountain trail Bran's group follows northward under Jojen's guidance",
+    "cFactor": 0.64,
+    "season": 4,
+    "episode": "S04E02 - The Lion and the Rose"
+  },
+  {
+    "lat": 63.404,
+    "lon": -19.046,
+    "location": "Reynisfjara Beach",
+    "country": "Iceland",
+    "scene": "Black sand coast forming the shoreline below Eastwatch-by-the-Sea",
+    "cFactor": 0.82,
+    "season": 7,
+    "episode": "S07E06 - Beyond the Wall"
+  },
+  {
+    "lat": 42.6397,
+    "lon": 18.1066,
+    "location": "Bokar Fortress",
+    "country": "Croatia",
+    "scene": "King's Landing walls where Tyrion and Varys discuss wildfire defenses",
+    "cFactor": 0.95,
+    "season": 2,
+    "episode": "S02E06 - The Old Gods and the New"
+  },
+  {
+    "lat": 42.641,
+    "lon": 18.106,
+    "location": "Pile Bay",
+    "country": "Croatia",
+    "scene": "Harbor where Myrcella departs for Dorne and where the riot against Joffrey erupts",
+    "cFactor": 0.93,
+    "season": 2,
+    "episode": "S02E06 - The Old Gods and the New"
+  },
+  {
+    "lat": 42.6406,
+    "lon": 18.11,
+    "location": "Jesuit Stairs",
+    "country": "Croatia",
+    "scene": "Cersei's Walk of Atonement begins at the top of these baroque steps",
+    "cFactor": 0.9,
+    "season": 5,
+    "episode": "S05E10 - Mother's Mercy"
+  },
+  {
+    "lat": 42.7051,
+    "lon": 18.0182,
+    "location": "Trsteno Arboretum Fountain",
+    "country": "Croatia",
+    "scene": "Tyrell garden fountain where Olenna counsels Sansa among the roses",
+    "cFactor": 0.88,
+    "season": 3,
+    "episode": "S03E02 - Dark Wings, Dark Words"
+  },
+  {
+    "lat": 42.6417,
+    "lon": 18.1064,
+    "location": "Min\u010deta Tower",
+    "country": "Croatia",
+    "scene": "House of the Undying exterior Daenerys circles searching for her dragons",
+    "cFactor": 0.94,
+    "season": 2,
+    "episode": "S02E10 - Valar Morghulis"
+  },
+  {
+    "lat": 42.6415,
+    "lon": 18.112,
+    "location": "Plo\u010de Gate",
+    "country": "Croatia",
+    "scene": "City gate riot site where King Joffrey orders his guards to seize the starving crowd",
+    "cFactor": 0.79,
+    "season": 2,
+    "episode": "S02E06 - The Old Gods and the New"
+  },
+  {
+    "lat": 43.5084,
+    "lon": 16.4402,
+    "location": "Diocletian's Palace Cellars",
+    "country": "Croatia",
+    "scene": "Meereen throne room where Daenerys judges petitions",
+    "cFactor": 0.9,
+    "season": 4,
+    "episode": "S04E04 - Oathkeeper"
+  },
+  {
+    "lat": 43.5597,
+    "lon": 16.5192,
+    "location": "Klis Fortress",
+    "country": "Croatia",
+    "scene": "Walls of Meereen where the Unsullied raise the Targaryen banner",
+    "cFactor": 0.91,
+    "season": 4,
+    "episode": "S04E04 - Oathkeeper"
+  },
+  {
+    "lat": 43.51,
+    "lon": 16.585,
+    "location": "\u017drnovnica Quarry",
+    "country": "Croatia",
+    "scene": "Fighting pit training ground for the Unsullied before marching to Meereen",
+    "cFactor": 0.66,
+    "season": 4,
+    "episode": "S04E01 - Two Swords"
+  },
+  {
+    "lat": 43.5495,
+    "lon": 16.3566,
+    "location": "Ka\u0161tel Gomilica Harbor",
+    "country": "Croatia",
+    "scene": "Braavos canal where Arya sells oysters, clams, and cockles",
+    "cFactor": 0.9,
+    "season": 5,
+    "episode": "S05E03 - High Sparrow"
+  },
+  {
+    "lat": 31.0469,
+    "lon": -7.13,
+    "location": "A\u00eft Benhaddou",
+    "country": "Morocco",
+    "scene": "Mudbrick gates of Yunkai where Daenerys meets the Wise Masters",
+    "cFactor": 0.94,
+    "season": 3,
+    "episode": "S03E09 - The Rains of Castamere"
+  },
+  {
+    "lat": 31.5131,
+    "lon": -9.7681,
+    "location": "Essaouira Ramparts",
+    "country": "Morocco",
+    "scene": "Astapor seawall where the Unsullied line up as Daenerys inspects them",
+    "cFactor": 0.91,
+    "season": 3,
+    "episode": "S03E03 - Walk of Punishment"
+  },
+  {
+    "lat": 30.9275,
+    "lon": -6.938,
+    "location": "Atlas Studios Gate",
+    "country": "Morocco",
+    "scene": "Yunkai courtyard where Daario and the Second Sons pledge to Daenerys",
+    "cFactor": 0.72,
+    "season": 3,
+    "episode": "S03E08 - Second Sons"
+  },
+  {
+    "lat": 31.0488,
+    "lon": -6.5779,
+    "location": "Skoura Palm Grove",
+    "country": "Morocco",
+    "scene": "Road of freedmen marching from Yunkai toward Daenerys' camp",
+    "cFactor": 0.68,
+    "season": 4,
+    "episode": "S04E01 - Two Swords"
+  },
+  {
+    "lat": 30.9186,
+    "lon": -6.9097,
+    "location": "Taourirt Kasbah",
+    "country": "Morocco",
+    "scene": "Interior halls of Yunkai where Kraznys meets Daenerys and Missandei translates",
+    "cFactor": 0.7,
+    "season": 3,
+    "episode": "S03E04 - And Now His Watch Is Ended"
+  },
+  {
+    "lat": 55.2274,
+    "lon": -6.5497,
+    "location": "Murlough Bay Viewpoint",
+    "country": "Northern Ireland",
+    "scene": "Shoreline where Theon rides with Yara and later where Davos confronts Salladhor",
+    "cFactor": 0.74,
+    "season": 2,
+    "episode": "S02E02 - The Night Lands"
+  },
+  {
+    "lat": 55.1609,
+    "lon": -6.0402,
+    "location": "Sallagh Braes Overlook",
+    "country": "Northern Ireland",
+    "scene": "Hound and Arya traverse the Riverlands with panoramic cliff vistas",
+    "cFactor": 0.71,
+    "season": 4,
+    "episode": "S04E01 - Two Swords"
+  },
+  {
+    "lat": 55.1932,
+    "lon": -6.3269,
+    "location": "Glenariff Forest Steps",
+    "country": "Northern Ireland",
+    "scene": "Forested trail used for Riverlands travel shots with Arya and the Hound",
+    "cFactor": 0.69,
+    "season": 4,
+    "episode": "S04E03 - Breaker of Chains"
+  },
+  {
+    "lat": 55.1361,
+    "lon": -6.1621,
+    "location": "Carnlough Harbour Quay",
+    "country": "Northern Ireland",
+    "scene": "Braavos canal ladder where Arya climbs out after being stabbed",
+    "cFactor": 0.93,
+    "season": 6,
+    "episode": "S06E07 - The Broken Man"
+  },
+  {
+    "lat": 54.9518,
+    "lon": -6.5231,
+    "location": "Shane's Castle Courtyard",
+    "country": "Northern Ireland",
+    "scene": "Winterfell courtyard sparring ground and tourney set builds",
+    "cFactor": 0.62,
+    "season": 1,
+    "episode": "S01E02 - The Kingsroad"
+  },
+  {
+    "lat": 55.1221,
+    "lon": -6.061,
+    "location": "Antrim Coast Road Bends",
+    "country": "Northern Ireland",
+    "scene": "Kingsroad ride where Brienne escorts Jaime north toward King's Landing",
+    "cFactor": 0.67,
+    "season": 3,
+    "episode": "S03E02 - Dark Wings, Dark Words"
+  },
+  {
+    "lat": 55.0377,
+    "lon": -6.1544,
+    "location": "Larrybane Head Quarry",
+    "country": "Northern Ireland",
+    "scene": "Renly's camp and the tourney where Brienne wins the rainbow guard spot",
+    "cFactor": 0.95,
+    "season": 2,
+    "episode": "S02E03 - What Is Dead May Never Die"
+  },
+  {
+    "lat": 55.1718,
+    "lon": -6.015,
+    "location": "Garron Point",
+    "country": "Northern Ireland",
+    "scene": "Coastal curve shown as the Kingsroad near the Stormlands cliffs",
+    "cFactor": 0.66,
+    "season": 2,
+    "episode": "S02E01 - The North Remembers"
+  },
+  {
+    "lat": 55.2164,
+    "lon": -6.3404,
+    "location": "Glenariff Upper Falls",
+    "country": "Northern Ireland",
+    "scene": "Waterfall glen glimpsed during Arya and the Hound's Riverlands trek",
+    "cFactor": 0.64,
+    "season": 4,
+    "episode": "S04E04 - Oathkeeper"
+  },
+  {
+    "lat": 37.387,
+    "lon": -5.9909,
+    "location": "Seville Royal Shipyards",
+    "country": "Spain",
+    "scene": "Dragonstone storage tunnels where Tyrion and Varys plan Daenerys' war effort",
+    "cFactor": 0.74,
+    "season": 7,
+    "episode": "S07E02 - Stormborn"
+  },
+  {
+    "lat": 37.3431,
+    "lon": -5.9813,
+    "location": "Seville Cathedral Patio de los Naranjos",
+    "country": "Spain",
+    "scene": "Courtyard backdrop for Meereen noble gatherings",
+    "cFactor": 0.58,
+    "season": 5,
+    "episode": "S05E04 - Sons of the Harpy"
+  },
+  {
+    "lat": 37.1928,
+    "lon": -3.609,
+    "location": "Monachil Hanging Bridges",
+    "country": "Spain",
+    "scene": "Vaes Dothrak approach as the khalasar rides through mountain passes",
+    "cFactor": 0.77,
+    "season": 6,
+    "episode": "S06E04 - Book of the Stranger"
+  },
+  {
+    "lat": 36.4578,
+    "lon": -6.2034,
+    "location": "San Fernando Dunes",
+    "country": "Spain",
+    "scene": "Desert flats used for Dothraki Sea travel between Vaes Dothrak and Meereen",
+    "cFactor": 0.63,
+    "season": 6,
+    "episode": "S06E05 - The Door"
+  },
+  {
+    "lat": 38.8391,
+    "lon": -0.6015,
+    "location": "J\u00e1tiva Castle Walls",
+    "country": "Spain",
+    "scene": "Dragonstone exterior wall plates used for establishing shots",
+    "cFactor": 0.57,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 37.7008,
+    "lon": -0.8767,
+    "location": "Aledo Castle",
+    "country": "Spain",
+    "scene": "Tarly camp lookout prior to the Loot Train attack",
+    "cFactor": 0.71,
+    "season": 7,
+    "episode": "S07E04 - The Spoils of War"
+  },
+  {
+    "lat": 37.9787,
+    "lon": -0.6758,
+    "location": "San Javier Airfield Edge",
+    "country": "Spain",
+    "scene": "Open plain for Dothraki riders charging the Lannister column",
+    "cFactor": 0.59,
+    "season": 7,
+    "episode": "S07E04 - The Spoils of War"
+  },
+  {
+    "lat": 38.7055,
+    "lon": -9.1528,
+    "location": "Bel\u00e9m Tower Park",
+    "country": "Portugal",
+    "scene": "Port backdrop for King's Landing harbor crowd scenes",
+    "cFactor": 0.52,
+    "season": 7,
+    "episode": "S07E06 - Beyond the Wall"
+  },
+  {
+    "lat": 38.7954,
+    "lon": -9.3907,
+    "location": "Cabo da Roca Cliffs",
+    "country": "Portugal",
+    "scene": "Coastal cliffs used for Dragonstone sea lookouts",
+    "cFactor": 0.55,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 43.3739,
+    "lon": -5.139,
+    "location": "Cuevas del Mar Beach",
+    "country": "Spain",
+    "scene": "Iron Islands shore as Yara and Theon prepare their fleet",
+    "cFactor": 0.68,
+    "season": 6,
+    "episode": "S06E02 - Home"
+  },
+  {
+    "lat": 43.4061,
+    "lon": -8.2754,
+    "location": "Doni\u00f1os Beach Dunes",
+    "country": "Spain",
+    "scene": "Northern beach for Jon's landing before meeting Daenerys",
+    "cFactor": 0.6,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 43.006,
+    "lon": -7.5562,
+    "location": "Fervenza de Augaca\u00edda",
+    "country": "Spain",
+    "scene": "Waterfall clearing for the Children of the Forest flashback",
+    "cFactor": 0.51,
+    "season": 6,
+    "episode": "S06E05 - The Door"
+  },
+  {
+    "lat": 64.2555,
+    "lon": -15.2062,
+    "location": "Hengifoss Trail",
+    "country": "Iceland",
+    "scene": "Wildling column marches beyond the Wall toward Hardhome",
+    "cFactor": 0.65,
+    "season": 5,
+    "episode": "S05E08 - Hardhome"
+  },
+  {
+    "lat": 63.4171,
+    "lon": -19.0066,
+    "location": "\u00deakgil Canyon",
+    "country": "Iceland",
+    "scene": "Cave camp where Jon rests with the Free Folk on their climb",
+    "cFactor": 0.72,
+    "season": 3,
+    "episode": "S03E06 - The Climb"
+  },
+  {
+    "lat": 63.8643,
+    "lon": -22.4467,
+    "location": "Lambh\u00fasafoss Highlands",
+    "country": "Iceland",
+    "scene": "Frostfangs ridges seen as the ranging party shelters from storms",
+    "cFactor": 0.58,
+    "season": 2,
+    "episode": "S02E08 - The Prince of Winterfell"
+  },
+  {
+    "lat": 64.9299,
+    "lon": -14.0185,
+    "location": "Vestrahorn Western Ridge",
+    "country": "Iceland",
+    "scene": "Snowfield crest where Jon watches the Army of the Dead approach",
+    "cFactor": 0.79,
+    "season": 7,
+    "episode": "S07E06 - Beyond the Wall"
+  },
+  {
+    "lat": 64.0782,
+    "lon": -21.765,
+    "location": "Uxafoss Rapids",
+    "country": "Iceland",
+    "scene": "Streamside camp for wildlings before raiding a northern village",
+    "cFactor": 0.55,
+    "season": 4,
+    "episode": "S04E01 - Two Swords"
+  },
+  {
+    "lat": 36.8332,
+    "lon": -7.2465,
+    "location": "Castro Marim Marshes",
+    "country": "Portugal",
+    "scene": "Swampy inlet doubling for the Neck beyond Moat Cailin",
+    "cFactor": 0.5,
+    "season": 4,
+    "episode": "S04E03 - Breaker of Chains"
+  },
+  {
+    "lat": 36.7464,
+    "lon": -5.8001,
+    "location": "Grazalema Pass",
+    "country": "Spain",
+    "scene": "Mountain road where Arya rides north with the Hound",
+    "cFactor": 0.62,
+    "season": 4,
+    "episode": "S04E05 - First of His Name"
+  },
+  {
+    "lat": 36.7425,
+    "lon": -6.4394,
+    "location": "Do\u00f1ana Pine Forest Edge",
+    "country": "Spain",
+    "scene": "Reach countryside seen during Lannister column marches",
+    "cFactor": 0.56,
+    "season": 7,
+    "episode": "S07E04 - The Spoils of War"
+  },
+  {
+    "lat": 45.434,
+    "lon": 12.3397,
+    "location": "Venice Arsenale Docks",
+    "country": "Italy",
+    "scene": "Exteriors used for Braavos shipyards establishing shots",
+    "cFactor": 0.53,
+    "season": 5,
+    "episode": "S05E02 - The House of Black and White"
+  },
+  {
+    "lat": 45.437,
+    "lon": 12.3267,
+    "location": "Campo San Barnaba Footbridge",
+    "country": "Italy",
+    "scene": "Canal crossing plate used to extend Braavos street set",
+    "cFactor": 0.49,
+    "season": 5,
+    "episode": "S05E02 - The House of Black and White"
+  },
+  {
+    "lat": 45.4426,
+    "lon": 12.3255,
+    "location": "Fondamenta de l'Arzere",
+    "country": "Italy",
+    "scene": "Waterside frontage for Arya's oyster-selling route in Braavos",
+    "cFactor": 0.52,
+    "season": 5,
+    "episode": "S05E08 - Hardhome"
+  },
+  {
+    "lat": 35.8977,
+    "lon": 14.4462,
+    "location": "Verdala Palace Courtyard",
+    "country": "Malta",
+    "scene": "Illyrio Mopatis' estate courtyard where Daenerys meets Khal Drogo",
+    "cFactor": 0.86,
+    "season": 1,
+    "episode": "S01E01 - Winter Is Coming"
+  },
+  {
+    "lat": 36.0274,
+    "lon": 14.3002,
+    "location": "Mgarr ix-Xini Cliffs",
+    "country": "Malta",
+    "scene": "Coastal lookout for Pentos shoreline exteriors",
+    "cFactor": 0.61,
+    "season": 1,
+    "episode": "S01E02 - The Kingsroad"
+  },
+  {
+    "lat": 35.869,
+    "lon": 14.3805,
+    "location": "Fort Ricasoli Ramp",
+    "country": "Malta",
+    "scene": "King's Landing siege preparation ground with scorpions facing the bay",
+    "cFactor": 0.73,
+    "season": 2,
+    "episode": "S02E09 - Blackwater"
+  },
+  {
+    "lat": 36.0296,
+    "lon": 14.2728,
+    "location": "Ta' \u010aen\u010b Cliff Edge",
+    "country": "Malta",
+    "scene": "Clifftop where Daenerys looks out over the Narrow Sea from Pentos",
+    "cFactor": 0.64,
+    "season": 1,
+    "episode": "S01E01 - Winter Is Coming"
+  },
+  {
+    "lat": 43.5142,
+    "lon": 16.4239,
+    "location": "Split Riva Promenade",
+    "country": "Croatia",
+    "scene": "Meereen harbor walk as freedmen gather behind Daenerys",
+    "cFactor": 0.57,
+    "season": 5,
+    "episode": "S05E01 - The Wars to Come"
+  },
+  {
+    "lat": 43.3427,
+    "lon": 17.296,
+    "location": "Ba\u0161ka Voda Heights",
+    "country": "Croatia",
+    "scene": "Slopes used for Dothraki Sea camps when Daario hunts for Daenerys",
+    "cFactor": 0.59,
+    "season": 6,
+    "episode": "S06E01 - The Red Woman"
+  },
+  {
+    "lat": 43.1692,
+    "lon": 16.4418,
+    "location": "Hvar Spanish Fortress",
+    "country": "Croatia",
+    "scene": "Pentos skyline plates behind Illyrio's manse",
+    "cFactor": 0.54,
+    "season": 1,
+    "episode": "S01E01 - Winter Is Coming"
+  },
+  {
+    "lat": 42.6508,
+    "lon": 18.0903,
+    "location": "Dubrovnik Trsteno Path",
+    "country": "Croatia",
+    "scene": "Garden walkway where Olenna and Margaery discuss court politics",
+    "cFactor": 0.72,
+    "season": 3,
+    "episode": "S03E01 - Valar Dohaeris"
+  },
+  {
+    "lat": 42.9941,
+    "lon": 17.2003,
+    "location": "Omi\u0161 Cetina Canyon",
+    "country": "Croatia",
+    "scene": "River gorge used for the Sons of the Harpy ambush boats",
+    "cFactor": 0.55,
+    "season": 5,
+    "episode": "S05E09 - The Dance of Dragons"
+  },
+  {
+    "lat": 31.6349,
+    "lon": -7.995,
+    "location": "Kasbah of the Udayas Gate",
+    "country": "Morocco",
+    "scene": "Yunkai city gate plates when Daenerys meets the Wise Masters",
+    "cFactor": 0.62,
+    "season": 3,
+    "episode": "S03E05 - Kissed by Fire"
+  },
+  {
+    "lat": 30.9165,
+    "lon": -6.9426,
+    "location": "A\u00eft Benhaddou Granary",
+    "country": "Morocco",
+    "scene": "Upper terraces used for Yunkai slave quarters exteriors",
+    "cFactor": 0.71,
+    "season": 3,
+    "episode": "S03E04 - And Now His Watch Is Ended"
+  },
+  {
+    "lat": 31.1058,
+    "lon": -4.0112,
+    "location": "Erfoud Dunes Ridge",
+    "country": "Morocco",
+    "scene": "March of Daenerys' host leaving Yunkai toward Meereen",
+    "cFactor": 0.58,
+    "season": 4,
+    "episode": "S04E01 - Two Swords"
+  },
+  {
+    "lat": 30.7884,
+    "lon": -8.0291,
+    "location": "Imouzzer Cascade Plateau",
+    "country": "Morocco",
+    "scene": "Dothraki encampment above rocky waterfalls",
+    "cFactor": 0.53,
+    "season": 6,
+    "episode": "S06E01 - The Red Woman"
+  },
+  {
+    "lat": 64.9131,
+    "lon": -23.1358,
+    "location": "Dynjandi Falls Plateau",
+    "country": "Iceland",
+    "scene": "Snowfield ridge for Jon and Beric scouting beyond Eastwatch",
+    "cFactor": 0.7,
+    "season": 7,
+    "episode": "S07E06 - Beyond the Wall"
+  },
+  {
+    "lat": 55.0407,
+    "lon": -6.5021,
+    "location": "Dunluce Castle Outer Yard",
+    "country": "Northern Ireland",
+    "scene": "Pyke exterior plates around Balon Greyjoy's stronghold",
+    "cFactor": 0.85,
+    "season": 2,
+    "episode": "S02E02 - The Night Lands"
+  },
+  {
+    "lat": 55.1774,
+    "lon": -6.1328,
+    "location": "Red Arch Bridge Antrim",
+    "country": "Northern Ireland",
+    "scene": "Small bridge crossed by Arya and the Hound in the Riverlands",
+    "cFactor": 0.63,
+    "season": 4,
+    "episode": "S04E05 - First of His Name"
+  },
+  {
+    "lat": 55.0886,
+    "lon": -6.5041,
+    "location": "Portballintrae Bay",
+    "country": "Northern Ireland",
+    "scene": "Iron Islands beach where Yara launches her rescue fleet",
+    "cFactor": 0.77,
+    "season": 4,
+    "episode": "S04E10 - The Children"
+  },
+  {
+    "lat": 36.491,
+    "lon": -6.2702,
+    "location": "Rota Naval Beach",
+    "country": "Spain",
+    "scene": "Crownlands shore seen as smallfolk flee toward ships",
+    "cFactor": 0.5,
+    "season": 8,
+    "episode": "S08E05 - The Bells"
+  },
+  {
+    "lat": 54.9925,
+    "lon": -5.9602,
+    "location": "Magilligan Strand Dunes",
+    "country": "Northern Ireland",
+    "scene": "North shore stand-in when Brienne escorts Jaime after leaving Harrenhal",
+    "cFactor": 0.58,
+    "season": 3,
+    "episode": "S03E05 - Kissed by Fire"
+  },
+  {
+    "lat": 55.1911,
+    "lon": -6.0414,
+    "location": "Cushendun Beach Arch",
+    "country": "Northern Ireland",
+    "scene": "Sea cave where Melisandre births the shadow creature",
+    "cFactor": 0.88,
+    "season": 2,
+    "episode": "S02E04 - Garden of Bones"
+  },
+  {
+    "lat": 55.2416,
+    "lon": -6.3079,
+    "location": "Shillanavogy Valley Track",
+    "country": "Northern Ireland",
+    "scene": "Dothraki horde trail near the base of the Dothraki Sea",
+    "cFactor": 0.82,
+    "season": 1,
+    "episode": "S01E01 - Winter Is Coming"
+  },
+  {
+    "lat": 55.2074,
+    "lon": -6.1922,
+    "location": "Fair Head Clifftop",
+    "country": "Northern Ireland",
+    "scene": "Cliff edge where Jon and Theon discuss loyalty and Yara",
+    "cFactor": 0.86,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 43.4031,
+    "lon": -3.0124,
+    "location": "Itzurun Beach",
+    "country": "Spain",
+    "scene": "Dragonstone shoreline where Jon lands and meets Tyrion",
+    "cFactor": 0.9,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 43.4501,
+    "lon": -2.7851,
+    "location": "San Juan de Gaztelugatxe Causeway",
+    "country": "Spain",
+    "scene": "Winding steps leading to Dragonstone's main gate",
+    "cFactor": 0.94,
+    "season": 7,
+    "episode": "S07E01 - Dragonstone"
+  },
+  {
+    "lat": 37.8896,
+    "lon": -4.8421,
+    "location": "Almod\u00f3var del R\u00edo Castle Gardens",
+    "country": "Spain",
+    "scene": "Highgarden terraces where Jaime rides through the courtyard",
+    "cFactor": 0.87,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 39.8155,
+    "lon": -0.0982,
+    "location": "Pe\u00f1\u00edscola Old Town Steps",
+    "country": "Spain",
+    "scene": "Meereen hillside alleys seen as Varys walks the streets",
+    "cFactor": 0.83,
+    "season": 6,
+    "episode": "S06E02 - Home"
+  },
+  {
+    "lat": 39.7203,
+    "lon": -6.4176,
+    "location": "Trujillo Castle Battlements",
+    "country": "Spain",
+    "scene": "Casterly Rock exterior overlook used in the Lannister reveal",
+    "cFactor": 0.71,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 40.8411,
+    "lon": -2.1602,
+    "location": "Castillo de Zafra Keep",
+    "country": "Spain",
+    "scene": "Tower of Joy where young Ned confronts Ser Arthur Dayne",
+    "cFactor": 0.96,
+    "season": 6,
+    "episode": "S06E03 - Oathbreaker"
+  },
+  {
+    "lat": 41.8392,
+    "lon": 2.5566,
+    "location": "Castell de Santa Florentina Courtyard",
+    "country": "Spain",
+    "scene": "Horn Hill exterior when Sam returns home",
+    "cFactor": 0.89,
+    "season": 6,
+    "episode": "S06E06 - Blood of My Blood"
+  },
+  {
+    "lat": 43.1359,
+    "lon": -2.0902,
+    "location": "Barrika Clifftop",
+    "country": "Spain",
+    "scene": "Dragonstone cave entrance approach for Jon and Daenerys",
+    "cFactor": 0.85,
+    "season": 7,
+    "episode": "S07E04 - The Spoils of War"
+  },
+  {
+    "lat": 37.2614,
+    "lon": -4.1083,
+    "location": "Almod\u00f3var Watch Road",
+    "country": "Spain",
+    "scene": "Roadway leading to Highgarden as the Lannister host arrives",
+    "cFactor": 0.73,
+    "season": 7,
+    "episode": "S07E03 - The Queen's Justice"
+  },
+  {
+    "lat": 37.3216,
+    "lon": -6.0076,
+    "location": "It\u00e1lica Amphitheatre Approach",
+    "country": "Spain",
+    "scene": "Dragonpit walkway where the envoys gather",
+    "cFactor": 0.93,
+    "season": 7,
+    "episode": "S07E07 - The Dragon and the Wolf"
+  },
+  {
+    "lat": 37.3153,
+    "lon": -6.0117,
+    "location": "It\u00e1lica Amphitheatre Arena",
+    "country": "Spain",
+    "scene": "Dragonpit council site for the armistice summit",
+    "cFactor": 0.94,
+    "season": 7,
+    "episode": "S07E07 - The Dragon and the Wolf"
+  },
+  {
+    "lat": 54.4735,
+    "lon": -5.8354,
+    "location": "Saintfield Forest Path",
+    "country": "Northern Ireland",
+    "scene": "Whispering Wood night skirmish backdrop with Robb's scouts",
+    "cFactor": 0.62,
+    "season": 1,
+    "episode": "S01E09 - Baelor"
+  },
+  {
+    "lat": 54.5983,
+    "lon": -5.9375,
+    "location": "Ballyscullion Park Portico",
+    "country": "Northern Ireland",
+    "scene": "Riverrun encampment where Jaime parleyed with the Blackfish",
+    "cFactor": 0.69,
+    "season": 6,
+    "episode": "S06E08 - No One"
+  },
+  {
+    "lat": 54.5308,
+    "lon": -6.1437,
+    "location": "Toome Canal Towpath",
+    "country": "Northern Ireland",
+    "scene": "Canal-side route Jaime and Bronn ride toward Riverrun",
+    "cFactor": 0.64,
+    "season": 6,
+    "episode": "S06E07 - The Broken Man"
+  },
+  {
+    "lat": 64.0468,
+    "lon": -16.177,
+    "location": "Stakkholtsgj\u00e1 Canyon Floor",
+    "country": "Iceland",
+    "scene": "Ambush route where the wight-bearing party is surrounded",
+    "cFactor": 0.93,
+    "season": 7,
+    "episode": "S07E06 - Beyond the Wall"
+  },
+  {
+    "lat": 63.6296,
+    "lon": -19.9714,
+    "location": "Hverfjall Lava Field",
+    "country": "Iceland",
+    "scene": "Volcanic plain viewed in the Hound's fire vision",
+    "cFactor": 0.66,
+    "season": 7,
+    "episode": "S07E01 - Dragonstone"
+  },
+  {
+    "lat": 63.842,
+    "lon": -22.6752,
+    "location": "Hengill Geothermal Ridge",
+    "country": "Iceland",
+    "scene": "Snowbound trek for the Brotherhood on their hunt for a wight",
+    "cFactor": 0.61,
+    "season": 7,
+    "episode": "S07E06 - Beyond the Wall"
+  },
+  {
+    "lat": 63.8533,
+    "lon": -22.4494,
+    "location": "\u00de\u00f3rufoss Valley Road",
+    "country": "Iceland",
+    "scene": "Pasture where Drogon scorches the goatherd's flock",
+    "cFactor": 0.92,
+    "season": 4,
+    "episode": "S04E06 - The Laws of Gods and Men"
+  },
+  {
+    "lat": 63.8831,
+    "lon": -22.5643,
+    "location": "\u00deingvallavatn Shoreline",
+    "country": "Iceland",
+    "scene": "Cold lakeside used for North of the Wall travel plates",
+    "cFactor": 0.45,
+    "season": 4,
+    "episode": "S04E10 - The Children"
+  },
+  {
+    "lat": 35.8996,
+    "lon": 14.5142,
+    "location": "St. Dominic Convent Courtyard",
+    "country": "Malta",
+    "scene": "Red Keep garden stroll with Ned and Cersei",
+    "cFactor": 0.81,
+    "season": 1,
+    "episode": "S01E03 - Lord Snow"
+  },
+  {
+    "lat": 35.8885,
+    "lon": 14.4054,
+    "location": "Fort Manoel Parade Ground",
+    "country": "Malta",
+    "scene": "Great Sept of Baelor steps where Ned confesses",
+    "cFactor": 0.9,
+    "season": 1,
+    "episode": "S01E09 - Baelor"
+  },
+  {
+    "lat": 35.8855,
+    "lon": 14.4027,
+    "location": "Pjazza Mesquita",
+    "country": "Malta",
+    "scene": "Littlefinger's brothel exterior courtyard",
+    "cFactor": 0.87,
+    "season": 1,
+    "episode": "S01E05 - The Wolf and the Lion"
+  },
+  {
+    "lat": 35.8859,
+    "lon": 14.4047,
+    "location": "Mdina Main Gate",
+    "country": "Malta",
+    "scene": "King's Landing gate where Catelyn and Ser Rodrik enter",
+    "cFactor": 0.88,
+    "season": 1,
+    "episode": "S01E03 - Lord Snow"
+  },
+  {
+    "lat": 31.0484,
+    "lon": -7.1326,
+    "location": "A\u00eft Benhaddou Lower Gate",
+    "country": "Morocco",
+    "scene": "Yunkai city gate confronted by Daenerys and her army",
+    "cFactor": 0.92,
+    "season": 3,
+    "episode": "S03E07 - The Bear and the Maiden Fair"
+  },
+  {
+    "lat": 31.3785,
+    "lon": -4.2299,
+    "location": "Atlas Studios Courtyard",
+    "country": "Morocco",
+    "scene": "Pentos manse courtyard where Illyrio hosts the Targaryens",
+    "cFactor": 0.78,
+    "season": 1,
+    "episode": "S01E01 - Winter Is Coming"
+  },
+  {
+    "lat": 28.996,
+    "lon": -13.5058,
+    "location": "Timanfaya Lava Fields",
+    "country": "Spain",
+    "scene": "Volcanic expanse used for Dothraki march plates",
+    "cFactor": 0.34,
+    "season": 6,
+    "episode": "S06E01 - The Red Woman"
+  },
+  {
+    "lat": 59.4364,
+    "lon": 24.7498,
+    "location": "Tallinn Old Town Walls",
+    "country": "Estonia",
+    "scene": "Braavos alley stand-in glimpsed during Arya's training",
+    "cFactor": 0.3,
+    "season": 5,
+    "episode": "S05E02 - The House of Black and White"
+  },
+  {
+    "lat": 54.8466,
+    "lon": -6.2793,
+    "location": "Slemish Mountain Slope",
+    "country": "Northern Ireland",
+    "scene": "Rolling hill plates for the North on Jon's journey to Winterfell",
+    "cFactor": 0.52,
+    "season": 8,
+    "episode": "S08E01 - Winterfell"
   }
 ]

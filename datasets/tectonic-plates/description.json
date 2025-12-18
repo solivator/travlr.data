@@ -1,0 +1,10 @@
+{
+  "id": "tectonic-plates",
+  "name": "Tectonic Plates",
+  "type": "polygon",
+  "category": "Boundaries",
+  "index": 12,
+  "title": "PB2002 tectonic plate boundaries",
+  "description": "PB2002 plate boundary polygons for mapping global tectonic structures and overlaying geologic context.",
+  "markercount": 54
+}

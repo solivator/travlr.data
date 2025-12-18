@@ -1,0 +1,10 @@
+{
+  "id": "ancient-empires",
+  "name": "Ancient Empires (Peak Extent)",
+  "type": "polygon",
+  "category": "History",
+  "index": 13,
+  "title": "Peak boundaries of major ancient empires",
+  "description": "MultiPolygon outlines capturing the peak spatial extents for key historic empires, useful as a reference layer for time-aware exploration.",
+  "markercount": 14
+}

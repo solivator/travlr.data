@@ -1,4 +1,4 @@
-# travlr.explore
+# travlr.data
 
 Agentic environment for TRAVLR's explore section. Datasets are organized by folder to keep marker data and metadata together for the explore experience.
 

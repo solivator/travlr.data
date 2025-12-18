@@ -34,10 +34,11 @@ Boundary and region geometries for polygon-based exploration.
 
 | Dataset | ID/Source | Features | Notes |
 | --- | --- | --- | --- |
+| Ancient Empires Peak Extents | `ancient-empires` | 14 | MultiPolygon outlines for major empires at their peak reach. |
 | Country and US Bounding Boxes | `country-bounds` | 254 | Bounding boxes for global countries and U.S. regions. |
 | United States Feature Collection | `us-states` | 52 | U.S. state and territory polygons. |
-| Time Zones | `ne_10m_time_zones.shp` | Shapefile | Natural Earth 1:10m time zone polygons (feature count depends on importer). |
-| Tectonic Plates | `PB2002_plates.json` | 54 | PB2002 tectonic plate boundaries in GeoJSON format. |
+| Time Zones | `time-zones` | Shapefile | Natural Earth 1:10m time zone polygons (feature count depends on importer). |
+| Tectonic Plates | `tectonic-plates` | 54 | PB2002 tectonic plate boundaries in GeoJSON format. |
 
 ## Adding a dataset
 1. Create `datasets/<dataset-id>/` and place the source JSON in `data.json` without altering its structure unless necessary.

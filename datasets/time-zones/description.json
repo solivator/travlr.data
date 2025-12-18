@@ -1,0 +1,10 @@
+{
+  "id": "time-zones",
+  "name": "Time Zones",
+  "type": "polygon",
+  "category": "Boundaries",
+  "index": 11,
+  "title": "Natural Earth time zone polygons",
+  "description": "Natural Earth 1:10m time zone polygons provided as a shapefile; final feature counts depend on the importer used.",
+  "markercount": 0
+}

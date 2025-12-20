@@ -19,6 +19,7 @@ Explore-ready datasets grouped by theme.
 | Culture | Reddit Travel Locations | `reddit-travel-locations` | 26,479 | Crowd-sourced travel tips and places to visit. |
 | Nature | UNESCO World Heritage Sites – Natural | `unesco-nature` | 203 | Natural heritage sites. |
 | Nature | Meteorite Landings | `meteorites` | 45,716 | Global meteorite strike records. |
+| Nature | Earthquakes | `earthquakes` | 6,107 | Worldwide earthquake events with magnitudes, felt reports, timestamps, and tsunami flags. |
 | Nature | Iconic Waterfalls | `waterfalls` | 1,100 | Waterfalls with height and confidence factors. |
 | Nature | Volcanoes | `vulcanoes` | 425 | Volcano locations with supporting details. |
 | Fiction | Lord of the Rings Filming Locations | `lotr-locations` | 131 | Filming locations for Peter Jackson's trilogy. |

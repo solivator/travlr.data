@@ -1,0 +1,10 @@
+{
+  "id": "cities",
+  "name": "Global Cities",
+  "type": "point",
+  "category": "Transport",
+  "index": 17,
+  "title": "World cities with travel codes and airport readiness",
+  "description": "City points with translations, country codes, time zones, coordinates, and flags for flightable airports to support routing and planning contexts.",
+  "markercount": 9639
+}

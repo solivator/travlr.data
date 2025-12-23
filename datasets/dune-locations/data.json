@@ -1,0 +1,1062 @@
+[
+  {
+    "lat": 29.5765,
+    "lon": 35.4199,
+    "Placename": "Wadi Rum Desert, Jordan",
+    "Category": "Desert",
+    "Description": "The red sands and rock formations of Wadi Rum appear as sweeping Arrakis desert vistas in *Dune* (2021), including Paul and Jessica\u2019s trek after the Harkonnen attack.",
+    "SceneId": "DUNE2021-ARRAKIS-01",
+    "Cfactor": 0.9,
+    "pictures": []
+  },
+  {
+    "lat": 23.1408,
+    "lon": 53.7764,
+    "Placename": "Liwa Desert (Empty Quarter), Abu Dhabi, UAE",
+    "Category": "Desert",
+    "Description": "Liwa\u2019s dunes in the Rub' al Khali were used for deep-desert sequences on Arrakis, including spice-harvester and sandworm shots.",
+    "SceneId": "DUNE2021-ARRAKIS-02",
+    "Cfactor": 0.88,
+    "pictures": []
+  },
+  {
+    "lat": 62.0459,
+    "lon": 5.1128,
+    "Placename": "Kjerringsanden Beach, Stadlandet, Norway",
+    "Category": "Coastline",
+    "Description": "The stormy coast of Stadlandet stands in for Caladan\u2019s rugged shoreline, seen during House Atreides\u2019 rain-soaked homeworld scenes.",
+    "SceneId": "DUNE2021-CALADAN-01",
+    "Cfactor": 0.85,
+    "pictures": []
+  },
+  {
+    "lat": 47.4708,
+    "lon": 19.2147,
+    "Placename": "Origo Studios, Budapest, Hungary",
+    "Category": "Interior/Studio",
+    "Description": "Origo Studios hosted major interior sets such as Arrakeen palace halls, ceremonial rooms, and other controlled-environment scenes in *Dune* (2021).",
+    "SceneId": "DUNE2021-INTERIOR-01",
+    "Cfactor": 0.82,
+    "pictures": []
+  },
+  {
+    "lat": 47.4716,
+    "lon": 19.2156,
+    "Placename": "Origo Studios Backlot (Arrakeen city sets), Budapest, Hungary",
+    "Category": "City/Set",
+    "Description": "Exterior city-scale sets for Arrakeen were constructed on the Origo backlot, providing the monumental urban vistas of the Atreides capital on Arrakis.",
+    "SceneId": "DUNE2021-ARRAKEEN-01",
+    "Cfactor": 0.8,
+    "pictures": []
+  },
+  {
+    "lat": 47.4439,
+    "lon": 18.7601,
+    "Placename": "Korda Studios, Etyek, Hungary",
+    "Category": "Interior/Studio",
+    "Description": "Additional interior soundstages at Korda Studios supported controlled set builds for palace and military interiors seen in the film.",
+    "SceneId": "DUNE2021-INTERIOR-02",
+    "Cfactor": 0.78,
+    "pictures": []
+  },
+  {
+    "lat": 29.5704,
+    "lon": 35.4183,
+    "Placename": "Wadi Rum Village, Jordan",
+    "Category": "Desert",
+    "Description": "The edge of Wadi Rum\u2019s settlement and surrounding sands appear in Arrakis approach shots and transitional desert travel sequences.",
+    "SceneId": "DUNE2021-ARRAKIS-03",
+    "Cfactor": 0.7,
+    "pictures": []
+  },
+  {
+    "lat": 29.6329,
+    "lon": 35.4342,
+    "Placename": "Seven Pillars of Wisdom, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "The iconic rock spires form a distinctive Arrakis backdrop during wide establishing shots in the film.",
+    "SceneId": "DUNE2021-ARRAKIS-04",
+    "Cfactor": 0.73,
+    "pictures": []
+  },
+  {
+    "lat": 29.6915,
+    "lon": 35.4499,
+    "Placename": "Jebel Khazali, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "The cliff faces of Jebel Khazali are visible in long-lens desert shots used to convey the scale of Arrakis.",
+    "SceneId": "DUNE2021-ARRAKIS-05",
+    "Cfactor": 0.69,
+    "pictures": []
+  },
+  {
+    "lat": 29.693,
+    "lon": 35.453,
+    "Placename": "Khazali Canyon, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "Narrow canyon walls in Wadi Rum serve as close-up desert surroundings for Arrakis travel moments.",
+    "SceneId": "DUNE2021-ARRAKIS-06",
+    "Cfactor": 0.66,
+    "pictures": []
+  },
+  {
+    "lat": 29.504,
+    "lon": 35.428,
+    "Placename": "Jebel Umm Ishrin, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "The massive sandstone ridge appears in wide shots of the Arrakis horizon and dune ridges.",
+    "SceneId": "DUNE2021-ARRAKIS-07",
+    "Cfactor": 0.67,
+    "pictures": []
+  },
+  {
+    "lat": 29.4509,
+    "lon": 35.4416,
+    "Placename": "Jebel Burdah, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "Burdah\u2019s towering cliffs and nearby dunes match Arrakis\u2019 rugged desert terrain in sweeping aerials.",
+    "SceneId": "DUNE2021-ARRAKIS-08",
+    "Cfactor": 0.68,
+    "pictures": []
+  },
+  {
+    "lat": 29.449,
+    "lon": 35.438,
+    "Placename": "Burdah Rock Bridge, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "The natural rock bridge is part of the rocky desert landscape glimpsed in Arrakis traversal scenes.",
+    "SceneId": "DUNE2021-ARRAKIS-09",
+    "Cfactor": 0.63,
+    "pictures": []
+  },
+  {
+    "lat": 29.6123,
+    "lon": 35.4861,
+    "Placename": "Um Fruth Rock Bridge, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "The arch and surrounding sands appear in mid-distance desert shots during spice-harvester sequences.",
+    "SceneId": "DUNE2021-ARRAKIS-10",
+    "Cfactor": 0.64,
+    "pictures": []
+  },
+  {
+    "lat": 29.6461,
+    "lon": 35.4321,
+    "Placename": "Lawrence's Spring, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "Rocky outcrops near Lawrence\u2019s Spring are visible in Arrakis travel imagery with small vegetation patches.",
+    "SceneId": "DUNE2021-ARRAKIS-11",
+    "Cfactor": 0.6,
+    "pictures": []
+  },
+  {
+    "lat": 29.5412,
+    "lon": 35.3507,
+    "Placename": "Barrah Canyon, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "The long canyon corridor provides the jagged horizon line used in Arrakis chase and travel sequences.",
+    "SceneId": "DUNE2021-ARRAKIS-12",
+    "Cfactor": 0.61,
+    "pictures": []
+  },
+  {
+    "lat": 29.5123,
+    "lon": 35.3988,
+    "Placename": "Siq Um Al Tawaqi, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "This narrow pass contributes to the layered rock textures featured in Arrakis canyon shots.",
+    "SceneId": "DUNE2021-ARRAKIS-13",
+    "Cfactor": 0.6,
+    "pictures": []
+  },
+  {
+    "lat": 29.4794,
+    "lon": 35.3847,
+    "Placename": "Abu Khashaba Canyon, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "A sandy canyon floor and cliffs that match the Arrakis terrain during desert treks.",
+    "SceneId": "DUNE2021-ARRAKIS-14",
+    "Cfactor": 0.6,
+    "pictures": []
+  },
+  {
+    "lat": 29.5342,
+    "lon": 35.4189,
+    "Placename": "Red Sand Dune, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "A tall red dune appears in Arrakis establishing shots, emphasizing the scale of the sands.",
+    "SceneId": "DUNE2021-ARRAKIS-15",
+    "Cfactor": 0.65,
+    "pictures": []
+  },
+  {
+    "lat": 29.5593,
+    "lon": 35.4254,
+    "Placename": "Mushroom Rock, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "The mushroom-shaped rock formation appears in the mid-ground of Arrakis landscape shots.",
+    "SceneId": "DUNE2021-ARRAKIS-16",
+    "Cfactor": 0.58,
+    "pictures": []
+  },
+  {
+    "lat": 29.726,
+    "lon": 35.471,
+    "Placename": "Anfishiyyeh Inscriptions, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "A rocky outcrop area used to add texture and depth to Arrakis traversal scenes.",
+    "SceneId": "DUNE2021-ARRAKIS-17",
+    "Cfactor": 0.57,
+    "pictures": []
+  },
+  {
+    "lat": 29.745,
+    "lon": 35.446,
+    "Placename": "Al Barrah Ridge, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "The ridge line is visible in long-range Arrakis panoramas and skyline silhouettes.",
+    "SceneId": "DUNE2021-ARRAKIS-18",
+    "Cfactor": 0.59,
+    "pictures": []
+  },
+  {
+    "lat": 29.5662,
+    "lon": 35.018,
+    "Placename": "Disi Canyon, Southern Jordan",
+    "Category": "Desert",
+    "Description": "The wider sands and rock shelves of Disi Canyon were used for additional Arrakis travel and wide establishing shots.",
+    "SceneId": "DUNE2021-ARRAKIS-19",
+    "Cfactor": 0.55,
+    "pictures": []
+  },
+  {
+    "lat": 29.3074,
+    "lon": 35.452,
+    "Placename": "Umm Adami Foothills, Jordan",
+    "Category": "Desert",
+    "Description": "Rocky foothills near Jordan\u2019s southern peaks provide layered desert textures for Arrakis panoramas.",
+    "SceneId": "DUNE2021-ARRAKIS-20",
+    "Cfactor": 0.54,
+    "pictures": []
+  },
+  {
+    "lat": 23.125,
+    "lon": 53.78,
+    "Placename": "Liwa Oasis, Abu Dhabi, UAE",
+    "Category": "Desert",
+    "Description": "The fringes of the Liwa oasis and dune sea appear in Arrakis travel sequences with distant palm lines.",
+    "SceneId": "DUNE2021-ARRAKIS-21",
+    "Cfactor": 0.62,
+    "pictures": []
+  },
+  {
+    "lat": 23.171,
+    "lon": 53.794,
+    "Placename": "Tal Moreeb Dune, Liwa, UAE",
+    "Category": "Desert",
+    "Description": "The high slipface of Tal Moreeb provides the towering dune profile for Arrakis deep-desert shots.",
+    "SceneId": "DUNE2021-ARRAKIS-22",
+    "Cfactor": 0.72,
+    "pictures": []
+  },
+  {
+    "lat": 23.175,
+    "lon": 53.788,
+    "Placename": "Moreeb Dune Ridge, Liwa, UAE",
+    "Category": "Desert",
+    "Description": "The dune ridge line appears in wide shots as spice-harvester operations kick up sand plumes.",
+    "SceneId": "DUNE2021-ARRAKIS-23",
+    "Cfactor": 0.7,
+    "pictures": []
+  },
+  {
+    "lat": 23.0983,
+    "lon": 53.7758,
+    "Placename": "Mezairaa, Liwa Crescent, UAE",
+    "Category": "Desert",
+    "Description": "The transition from settlement to the dune sea appears in Arrakis approach imagery.",
+    "SceneId": "DUNE2021-ARRAKIS-24",
+    "Cfactor": 0.56,
+    "pictures": []
+  },
+  {
+    "lat": 23.0545,
+    "lon": 53.7314,
+    "Placename": "Liwa Crescent Dune Field (North), UAE",
+    "Category": "Desert",
+    "Description": "Northern Liwa dunes support wide desert plates for Arrakis establishing shots.",
+    "SceneId": "DUNE2021-ARRAKIS-25",
+    "Cfactor": 0.6,
+    "pictures": []
+  },
+  {
+    "lat": 23.0314,
+    "lon": 53.7819,
+    "Placename": "Liwa Crescent Dune Field (Central), UAE",
+    "Category": "Desert",
+    "Description": "Central dune corridors were used for traversing Arrakis scenes with sweeping sand ridges.",
+    "SceneId": "DUNE2021-ARRAKIS-26",
+    "Cfactor": 0.6,
+    "pictures": []
+  },
+  {
+    "lat": 23.0132,
+    "lon": 53.8265,
+    "Placename": "Liwa Crescent Dune Field (South), UAE",
+    "Category": "Desert",
+    "Description": "South Liwa dune fields were filmed for the most remote Arrakis desert shots.",
+    "SceneId": "DUNE2021-ARRAKIS-27",
+    "Cfactor": 0.6,
+    "pictures": []
+  },
+  {
+    "lat": 23.0668,
+    "lon": 53.8622,
+    "Placename": "Madinat Zayed Desert Fringe, UAE",
+    "Category": "Desert",
+    "Description": "The desert fringe near Madinat Zayed provides background plates for Arrakis travel sequences.",
+    "SceneId": "DUNE2021-ARRAKIS-28",
+    "Cfactor": 0.53,
+    "pictures": []
+  },
+  {
+    "lat": 23.2134,
+    "lon": 53.8142,
+    "Placename": "Al Mirayr Dunes, Liwa, UAE",
+    "Category": "Desert",
+    "Description": "Broad dune faces in the Al Mirayr area were captured for Arrakis flyover shots.",
+    "SceneId": "DUNE2021-ARRAKIS-29",
+    "Cfactor": 0.59,
+    "pictures": []
+  },
+  {
+    "lat": 23.2427,
+    "lon": 53.7746,
+    "Placename": "Liwa Dune Sea (Northwest), UAE",
+    "Category": "Desert",
+    "Description": "A wide, uninterrupted sand sea used for long establishing plates of Arrakis.",
+    "SceneId": "DUNE2021-ARRAKIS-30",
+    "Cfactor": 0.58,
+    "pictures": []
+  },
+  {
+    "lat": 23.2002,
+    "lon": 53.8425,
+    "Placename": "Liwa Dune Sea (Northeast), UAE",
+    "Category": "Desert",
+    "Description": "Dune ridges here were used for the distant, layered horizon shots in Arrakis sequences.",
+    "SceneId": "DUNE2021-ARRAKIS-31",
+    "Cfactor": 0.58,
+    "pictures": []
+  },
+  {
+    "lat": 23.1641,
+    "lon": 53.8628,
+    "Placename": "Liwa Dune Sea (East), UAE",
+    "Category": "Desert",
+    "Description": "The rolling dunes create a sense of scale during Arrakis convoy and harvester scenes.",
+    "SceneId": "DUNE2021-ARRAKIS-32",
+    "Cfactor": 0.57,
+    "pictures": []
+  },
+  {
+    "lat": 23.1102,
+    "lon": 53.8691,
+    "Placename": "Liwa Dune Sea (Southeast), UAE",
+    "Category": "Desert",
+    "Description": "Dune basins in this area were used for deep-desert visuals and sandstorm imagery.",
+    "SceneId": "DUNE2021-ARRAKIS-33",
+    "Cfactor": 0.57,
+    "pictures": []
+  },
+  {
+    "lat": 23.0731,
+    "lon": 53.8392,
+    "Placename": "Liwa Dune Sea (Central East), UAE",
+    "Category": "Desert",
+    "Description": "Captured as part of the Arrakis desert plates featuring rippling sand textures.",
+    "SceneId": "DUNE2021-ARRAKIS-34",
+    "Cfactor": 0.56,
+    "pictures": []
+  },
+  {
+    "lat": 23.0396,
+    "lon": 53.8078,
+    "Placename": "Liwa Dune Sea (Central West), UAE",
+    "Category": "Desert",
+    "Description": "A set of dune ridges used in Arrakis mid-distance shot composites.",
+    "SceneId": "DUNE2021-ARRAKIS-35",
+    "Cfactor": 0.56,
+    "pictures": []
+  },
+  {
+    "lat": 23.0121,
+    "lon": 53.7724,
+    "Placename": "Liwa Dune Sea (Southwest), UAE",
+    "Category": "Desert",
+    "Description": "Southwest Liwa dunes support Arrakis deep-desert plates and sandworm approach shots.",
+    "SceneId": "DUNE2021-ARRAKIS-36",
+    "Cfactor": 0.57,
+    "pictures": []
+  },
+  {
+    "lat": 23.0005,
+    "lon": 53.8214,
+    "Placename": "Liwa Dune Sea (South), UAE",
+    "Category": "Desert",
+    "Description": "Low-angle dune profiles used for Arrakis horizon shots and sky-heavy compositions.",
+    "SceneId": "DUNE2021-ARRAKIS-37",
+    "Cfactor": 0.55,
+    "pictures": []
+  },
+  {
+    "lat": 23.2554,
+    "lon": 53.8159,
+    "Placename": "Liwa Dune Sea (North Ridge), UAE",
+    "Category": "Desert",
+    "Description": "Northern ridge lines filmed for Arrakis dune silhouettes and cresting sand imagery.",
+    "SceneId": "DUNE2021-ARRAKIS-38",
+    "Cfactor": 0.57,
+    "pictures": []
+  },
+  {
+    "lat": 23.1822,
+    "lon": 53.7366,
+    "Placename": "Liwa Dune Sea (Northwest Ridge), UAE",
+    "Category": "Desert",
+    "Description": "This dune ridge provides a distinctive diagonal crest used in Arrakis desert shots.",
+    "SceneId": "DUNE2021-ARRAKIS-39",
+    "Cfactor": 0.56,
+    "pictures": []
+  },
+  {
+    "lat": 23.0864,
+    "lon": 53.7057,
+    "Placename": "Liwa Dune Sea (West Basin), UAE",
+    "Category": "Desert",
+    "Description": "Dune basins captured for wide-angle Arrakis desert plates with long shadows.",
+    "SceneId": "DUNE2021-ARRAKIS-40",
+    "Cfactor": 0.55,
+    "pictures": []
+  },
+  {
+    "lat": 62.0461,
+    "lon": 5.089,
+    "Placename": "Hoddevik Beach, Stadlandet, Norway",
+    "Category": "Coastline",
+    "Description": "Hoddevik\u2019s curved shoreline stands in for Caladan\u2019s stormy coast in wide establishing shots.",
+    "SceneId": "DUNE2021-CALADAN-02",
+    "Cfactor": 0.74,
+    "pictures": []
+  },
+  {
+    "lat": 62.1386,
+    "lon": 5.1295,
+    "Placename": "Ervik Beach, Stadlandet, Norway",
+    "Category": "Coastline",
+    "Description": "The surf and dark sands at Ervik contribute to Caladan\u2019s moody coastal visuals.",
+    "SceneId": "DUNE2021-CALADAN-03",
+    "Cfactor": 0.7,
+    "pictures": []
+  },
+  {
+    "lat": 62.1525,
+    "lon": 4.9939,
+    "Placename": "Vestkapp (West Cape), Stadlandet, Norway",
+    "Category": "Coastline",
+    "Description": "Cliff-top views from Vestkapp provide Caladan\u2019s dramatic coastal horizons and sea cliffs.",
+    "SceneId": "DUNE2021-CALADAN-04",
+    "Cfactor": 0.69,
+    "pictures": []
+  },
+  {
+    "lat": 62.0444,
+    "lon": 5.3436,
+    "Placename": "Selje Coastline, Norway",
+    "Category": "Coastline",
+    "Description": "The rocky Selje shoreline appears in Caladan establishing shots showing the House Atreides homeworld.",
+    "SceneId": "DUNE2021-CALADAN-05",
+    "Cfactor": 0.65,
+    "pictures": []
+  },
+  {
+    "lat": 62.0483,
+    "lon": 5.1135,
+    "Placename": "Hovden, Stadlandet, Norway",
+    "Category": "Coastline",
+    "Description": "Hovden\u2019s exposed rocky coast adds texture to Caladan\u2019s storm-lashed seascapes.",
+    "SceneId": "DUNE2021-CALADAN-06",
+    "Cfactor": 0.64,
+    "pictures": []
+  },
+  {
+    "lat": 62.1565,
+    "lon": 5.2085,
+    "Placename": "Refvika Beach, Stadlandet, Norway",
+    "Category": "Coastline",
+    "Description": "Refvika\u2019s windswept beach stands in for Caladan\u2019s dunes and sea spray vistas.",
+    "SceneId": "DUNE2021-CALADAN-07",
+    "Cfactor": 0.66,
+    "pictures": []
+  },
+  {
+    "lat": 62.0449,
+    "lon": 5.1014,
+    "Placename": "Stadlandet Sea Cliffs, Norway",
+    "Category": "Coastline",
+    "Description": "The sea cliffs north of Kjerringsanden supply Caladan\u2019s jagged coastal profiles.",
+    "SceneId": "DUNE2021-CALADAN-08",
+    "Cfactor": 0.63,
+    "pictures": []
+  },
+  {
+    "lat": 47.4705,
+    "lon": 19.2141,
+    "Placename": "Origo Studios Stage 1, Budapest, Hungary",
+    "Category": "Interior/Studio",
+    "Description": "Stage 1 hosted interior Arrakeen palace corridors and quiet dialogue sequences.",
+    "SceneId": "DUNE2021-INTERIOR-03",
+    "Cfactor": 0.76,
+    "pictures": []
+  },
+  {
+    "lat": 47.4709,
+    "lon": 19.2152,
+    "Placename": "Origo Studios Stage 2, Budapest, Hungary",
+    "Category": "Interior/Studio",
+    "Description": "Stage 2 supported controlled lighting for the Bene Gesserit meeting interiors.",
+    "SceneId": "DUNE2021-INTERIOR-04",
+    "Cfactor": 0.75,
+    "pictures": []
+  },
+  {
+    "lat": 47.4711,
+    "lon": 19.2163,
+    "Placename": "Origo Studios Stage 5, Budapest, Hungary",
+    "Category": "Interior/Studio",
+    "Description": "Stage 5 was used for interior scenes within the Atreides compound in Arrakeen.",
+    "SceneId": "DUNE2021-INTERIOR-05",
+    "Cfactor": 0.74,
+    "pictures": []
+  },
+  {
+    "lat": 47.4442,
+    "lon": 18.7594,
+    "Placename": "Korda Studios Stage 6, Etyek, Hungary",
+    "Category": "Interior/Studio",
+    "Description": "Stage 6 hosted large-scale interior builds, including ceremonial and military room sets.",
+    "SceneId": "DUNE2021-INTERIOR-06",
+    "Cfactor": 0.72,
+    "pictures": []
+  },
+  {
+    "lat": 47.4448,
+    "lon": 18.7586,
+    "Placename": "Korda Studios Backlot, Etyek, Hungary",
+    "Category": "City/Set",
+    "Description": "Exterior backlot work supported Arrakeen fa\u00e7ade shots and set extensions in post.",
+    "SceneId": "DUNE2021-ARRAKEEN-03",
+    "Cfactor": 0.68,
+    "pictures": []
+  },
+  {
+    "lat": 29.5859,
+    "lon": 35.4392,
+    "Placename": "Jebel Al-Qattar, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "Craggy outcrops from Jebel Al-Qattar frame Arrakis horizon shots with layered sandstone ridges.",
+    "SceneId": "DUNE2021-ARRAKIS-42",
+    "Cfactor": 0.57,
+    "pictures": []
+  },
+  {
+    "lat": 29.5624,
+    "lon": 35.4787,
+    "Placename": "Um Sabatah Dunes, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "Soft dune lines from Um Sabatah appear in sunlit Arrakis travel sequences.",
+    "SceneId": "DUNE2021-ARRAKIS-43",
+    "Cfactor": 0.56,
+    "pictures": []
+  },
+  {
+    "lat": 29.6321,
+    "lon": 35.4174,
+    "Placename": "Alameleh Ridge, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "Alameleh\u2019s ridge profile contributes to Arrakis skyline silhouettes in wide shots.",
+    "SceneId": "DUNE2021-ARRAKIS-44",
+    "Cfactor": 0.56,
+    "pictures": []
+  },
+  {
+    "lat": 29.5134,
+    "lon": 35.5079,
+    "Placename": "Ghazali Plain, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "Open plains around Ghazali Canyon add scale to Arrakis convoy and travel imagery.",
+    "SceneId": "DUNE2021-ARRAKIS-45",
+    "Cfactor": 0.55,
+    "pictures": []
+  },
+  {
+    "lat": 29.6032,
+    "lon": 35.4003,
+    "Placename": "Jebel Tawaqi, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "Rock massifs near Jebel Tawaqi appear as dark anchors in Arrakis desert plates.",
+    "SceneId": "DUNE2021-ARRAKIS-46",
+    "Cfactor": 0.55,
+    "pictures": []
+  },
+  {
+    "lat": 29.5618,
+    "lon": 35.4398,
+    "Placename": "Wadi Rum Sand Flats, Jordan",
+    "Category": "Desert",
+    "Description": "Hard-packed sand flats appear in Arrakis travel shots with low-angle sunlight.",
+    "SceneId": "DUNE2021-ARRAKIS-47",
+    "Cfactor": 0.58,
+    "pictures": []
+  },
+  {
+    "lat": 29.5699,
+    "lon": 35.4661,
+    "Placename": "Al Hisei Passage, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "The narrow passage provides rocky close-ups for Arrakis ground-level scenes.",
+    "SceneId": "DUNE2021-ARRAKIS-48",
+    "Cfactor": 0.54,
+    "pictures": []
+  },
+  {
+    "lat": 29.6206,
+    "lon": 35.4527,
+    "Placename": "Wadi Kharazeh, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "Wadi Kharazeh\u2019s rock textures are seen in Arrakis canyon insert shots.",
+    "SceneId": "DUNE2021-ARRAKIS-49",
+    "Cfactor": 0.53,
+    "pictures": []
+  },
+  {
+    "lat": 29.5468,
+    "lon": 35.4718,
+    "Placename": "Al Shallalah Ridge, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "Ridge silhouettes add depth to Arrakis panoramic compositions.",
+    "SceneId": "DUNE2021-ARRAKIS-50",
+    "Cfactor": 0.53,
+    "pictures": []
+  },
+  {
+    "lat": 29.5882,
+    "lon": 35.4929,
+    "Placename": "Nafakh Dunes, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "Smooth dune lines from Nafakh appear in Arrakis travel sequences and aerials.",
+    "SceneId": "DUNE2021-ARRAKIS-51",
+    "Cfactor": 0.54,
+    "pictures": []
+  },
+  {
+    "lat": 29.6553,
+    "lon": 35.4765,
+    "Placename": "Jebel Um Ishrin East Face, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "The east face of Jebel Um Ishrin adds towering cliffs to Arrakis establishing shots.",
+    "SceneId": "DUNE2021-ARRAKIS-52",
+    "Cfactor": 0.55,
+    "pictures": []
+  },
+  {
+    "lat": 29.4722,
+    "lon": 35.4668,
+    "Placename": "Wadi Rum Dune Basin, Jordan",
+    "Category": "Desert",
+    "Description": "A shallow dune basin used for Arrakis low-angle tracking shots.",
+    "SceneId": "DUNE2021-ARRAKIS-53",
+    "Cfactor": 0.52,
+    "pictures": []
+  },
+  {
+    "lat": 29.4869,
+    "lon": 35.4095,
+    "Placename": "Umm Muqarat Ridge, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "Umm Muqarat\u2019s ridge profiles show up as Arrakis skyline layers.",
+    "SceneId": "DUNE2021-ARRAKIS-54",
+    "Cfactor": 0.52,
+    "pictures": []
+  },
+  {
+    "lat": 29.6091,
+    "lon": 35.4315,
+    "Placename": "Jebel Rum Viewpoint, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "The Jebel Rum viewpoint provides sweeping Arrakis horizon vistas.",
+    "SceneId": "DUNE2021-ARRAKIS-55",
+    "Cfactor": 0.57,
+    "pictures": []
+  },
+  {
+    "lat": 29.5668,
+    "lon": 35.4021,
+    "Placename": "Wadi Um Ishrin Corridor, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "A corridor of dunes and rock walls used in Arrakis travel sequences.",
+    "SceneId": "DUNE2021-ARRAKIS-56",
+    "Cfactor": 0.53,
+    "pictures": []
+  },
+  {
+    "lat": 29.5367,
+    "lon": 35.4605,
+    "Placename": "Wadi Rum Sunset Flats, Jordan",
+    "Category": "Desert",
+    "Description": "Sunset-lit flats were used for Arrakis golden-hour establishing shots.",
+    "SceneId": "DUNE2021-ARRAKIS-57",
+    "Cfactor": 0.52,
+    "pictures": []
+  },
+  {
+    "lat": 29.5118,
+    "lon": 35.4471,
+    "Placename": "Umm Fruth Plateau, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "A plateau near Umm Fruth adds layered rock textures in Arrakis plates.",
+    "SceneId": "DUNE2021-ARRAKIS-58",
+    "Cfactor": 0.52,
+    "pictures": []
+  },
+  {
+    "lat": 29.6108,
+    "lon": 35.3716,
+    "Placename": "Wadi Rum Western Escarpment, Jordan",
+    "Category": "Desert",
+    "Description": "The western escarpment contributes jagged Arrakis skyline silhouettes.",
+    "SceneId": "DUNE2021-ARRAKIS-59",
+    "Cfactor": 0.53,
+    "pictures": []
+  },
+  {
+    "lat": 29.6468,
+    "lon": 35.4057,
+    "Placename": "Mushroom Rock Flats, Wadi Rum, Jordan",
+    "Category": "Desert",
+    "Description": "Flat sands near Mushroom Rock show up in Arrakis wide plates.",
+    "SceneId": "DUNE2021-ARRAKIS-60",
+    "Cfactor": 0.51,
+    "pictures": []
+  },
+  {
+    "lat": 29.5937,
+    "lon": 35.4562,
+    "Placename": "Wadi Rum Eastern Dune Field, Jordan",
+    "Category": "Desert",
+    "Description": "Eastern dune fields provide rippled sand textures for Arrakis close-ups.",
+    "SceneId": "DUNE2021-ARRAKIS-61",
+    "Cfactor": 0.52,
+    "pictures": []
+  },
+  {
+    "lat": 23.0941,
+    "lon": 53.7923,
+    "Placename": "Liwa Crescent Dune Field (Far North), UAE",
+    "Category": "Desert",
+    "Description": "Far-north Liwa dunes appear in wide Arrakis plates with long shadow ridges.",
+    "SceneId": "DUNE2021-ARRAKIS-62",
+    "Cfactor": 0.55,
+    "pictures": []
+  },
+  {
+    "lat": 23.0587,
+    "lon": 53.7929,
+    "Placename": "Liwa Crescent Dune Field (East Ridge), UAE",
+    "Category": "Desert",
+    "Description": "A ridge of dunes used in Arrakis mid-distance shots of spice harvesters.",
+    "SceneId": "DUNE2021-ARRAKIS-63",
+    "Cfactor": 0.55,
+    "pictures": []
+  },
+  {
+    "lat": 23.0275,
+    "lon": 53.7663,
+    "Placename": "Liwa Crescent Dune Field (West Ridge), UAE",
+    "Category": "Desert",
+    "Description": "West ridge dunes give Arrakis scenes a serrated horizon line.",
+    "SceneId": "DUNE2021-ARRAKIS-64",
+    "Cfactor": 0.54,
+    "pictures": []
+  },
+  {
+    "lat": 23.0035,
+    "lon": 53.7472,
+    "Placename": "Liwa Crescent Dune Field (Far West), UAE",
+    "Category": "Desert",
+    "Description": "Far west dunes support wide Arrakis plates with minimal visible vegetation.",
+    "SceneId": "DUNE2021-ARRAKIS-65",
+    "Cfactor": 0.54,
+    "pictures": []
+  },
+  {
+    "lat": 23.1584,
+    "lon": 53.8276,
+    "Placename": "Liwa Dune Sea (East Ridge), UAE",
+    "Category": "Desert",
+    "Description": "East ridge dunes appear in Arrakis travel sequences with spice harvester convoys.",
+    "SceneId": "DUNE2021-ARRAKIS-66",
+    "Cfactor": 0.55,
+    "pictures": []
+  },
+  {
+    "lat": 23.1212,
+    "lon": 53.8331,
+    "Placename": "Liwa Dune Sea (Central Ridge), UAE",
+    "Category": "Desert",
+    "Description": "Central ridge dunes provide rhythmic sand patterns in Arrakis plates.",
+    "SceneId": "DUNE2021-ARRAKIS-67",
+    "Cfactor": 0.55,
+    "pictures": []
+  },
+  {
+    "lat": 23.0938,
+    "lon": 53.8518,
+    "Placename": "Liwa Dune Sea (Far Southeast), UAE",
+    "Category": "Desert",
+    "Description": "Far southeast dunes appear in Arrakis deep-desert shots and worm-scale vistas.",
+    "SceneId": "DUNE2021-ARRAKIS-68",
+    "Cfactor": 0.54,
+    "pictures": []
+  },
+  {
+    "lat": 23.0697,
+    "lon": 53.8133,
+    "Placename": "Liwa Dune Sea (Central Basin), UAE",
+    "Category": "Desert",
+    "Description": "A central basin used for Arrakis aerial plates and sand ripples.",
+    "SceneId": "DUNE2021-ARRAKIS-69",
+    "Cfactor": 0.53,
+    "pictures": []
+  },
+  {
+    "lat": 23.0497,
+    "lon": 53.8346,
+    "Placename": "Liwa Dune Sea (East Basin), UAE",
+    "Category": "Desert",
+    "Description": "East basin dunes were used in Arrakis travel montages.",
+    "SceneId": "DUNE2021-ARRAKIS-70",
+    "Cfactor": 0.53,
+    "pictures": []
+  },
+  {
+    "lat": 23.0331,
+    "lon": 53.8182,
+    "Placename": "Liwa Dune Sea (South Ridge), UAE",
+    "Category": "Desert",
+    "Description": "South ridge dunes form a high crest used in Arrakis horizon plates.",
+    "SceneId": "DUNE2021-ARRAKIS-71",
+    "Cfactor": 0.54,
+    "pictures": []
+  },
+  {
+    "lat": 23.2461,
+    "lon": 53.7935,
+    "Placename": "Liwa Dune Sea (Northern Flats), UAE",
+    "Category": "Desert",
+    "Description": "Northern flats provide low-angle Arrakis sand sea imagery.",
+    "SceneId": "DUNE2021-ARRAKIS-72",
+    "Cfactor": 0.53,
+    "pictures": []
+  },
+  {
+    "lat": 23.2105,
+    "lon": 53.7783,
+    "Placename": "Liwa Dune Sea (Northwest Basin), UAE",
+    "Category": "Desert",
+    "Description": "Northwest basin dunes appear in Arrakis establishing shots with subtle ridgelines.",
+    "SceneId": "DUNE2021-ARRAKIS-73",
+    "Cfactor": 0.53,
+    "pictures": []
+  },
+  {
+    "lat": 23.1806,
+    "lon": 53.7597,
+    "Placename": "Liwa Dune Sea (West Ridge), UAE",
+    "Category": "Desert",
+    "Description": "West ridge dunes add depth to Arrakis plates with sweeping diagonal crests.",
+    "SceneId": "DUNE2021-ARRAKIS-74",
+    "Cfactor": 0.53,
+    "pictures": []
+  },
+  {
+    "lat": 23.1487,
+    "lon": 53.7565,
+    "Placename": "Liwa Dune Sea (West Basin), UAE",
+    "Category": "Desert",
+    "Description": "West basin sand fields appear in Arrakis transport and harvester sequences.",
+    "SceneId": "DUNE2021-ARRAKIS-75",
+    "Cfactor": 0.53,
+    "pictures": []
+  },
+  {
+    "lat": 23.1187,
+    "lon": 53.7602,
+    "Placename": "Liwa Dune Sea (Southwest Ridge), UAE",
+    "Category": "Desert",
+    "Description": "Southwest ridge dunes were used for Arrakis wide shots with dramatic crest shadows.",
+    "SceneId": "DUNE2021-ARRAKIS-76",
+    "Cfactor": 0.53,
+    "pictures": []
+  },
+  {
+    "lat": 23.0907,
+    "lon": 53.7313,
+    "Placename": "Liwa Dune Sea (West Flats), UAE",
+    "Category": "Desert",
+    "Description": "Low relief sand flats used for Arrakis horizon plates and convoy vistas.",
+    "SceneId": "DUNE2021-ARRAKIS-77",
+    "Cfactor": 0.52,
+    "pictures": []
+  },
+  {
+    "lat": 23.0615,
+    "lon": 53.7426,
+    "Placename": "Liwa Dune Sea (Southwest Flats), UAE",
+    "Category": "Desert",
+    "Description": "Southwest flats appear in Arrakis establishing shots with long dune shadows.",
+    "SceneId": "DUNE2021-ARRAKIS-78",
+    "Cfactor": 0.52,
+    "pictures": []
+  },
+  {
+    "lat": 23.0336,
+    "lon": 53.7361,
+    "Placename": "Liwa Dune Sea (Southwest Corridor), UAE",
+    "Category": "Desert",
+    "Description": "A corridor of dunes used for Arrakis travel and sandworm approach imagery.",
+    "SceneId": "DUNE2021-ARRAKIS-79",
+    "Cfactor": 0.52,
+    "pictures": []
+  },
+  {
+    "lat": 23.0141,
+    "lon": 53.7542,
+    "Placename": "Liwa Dune Sea (South Corridor), UAE",
+    "Category": "Desert",
+    "Description": "South corridor dunes appear in Arrakis deep-desert plates.",
+    "SceneId": "DUNE2021-ARRAKIS-80",
+    "Cfactor": 0.52,
+    "pictures": []
+  },
+  {
+    "lat": 22.9962,
+    "lon": 53.7728,
+    "Placename": "Liwa Dune Sea (Southern Flats), UAE",
+    "Category": "Desert",
+    "Description": "Southern flats provide minimalist Arrakis sand sea imagery.",
+    "SceneId": "DUNE2021-ARRAKIS-81",
+    "Cfactor": 0.51,
+    "pictures": []
+  },
+  {
+    "lat": 22.9905,
+    "lon": 53.8154,
+    "Placename": "Liwa Dune Sea (Southeast Corridor), UAE",
+    "Category": "Desert",
+    "Description": "Southeast corridor dunes show up in Arrakis wide plates and sandstorm visuals.",
+    "SceneId": "DUNE2021-ARRAKIS-82",
+    "Cfactor": 0.51,
+    "pictures": []
+  },
+  {
+    "lat": 23.2562,
+    "lon": 53.8351,
+    "Placename": "Liwa Dune Sea (North Plateau), UAE",
+    "Category": "Desert",
+    "Description": "A north plateau of dunes appears in Arrakis establishing plates.",
+    "SceneId": "DUNE2021-ARRAKIS-83",
+    "Cfactor": 0.52,
+    "pictures": []
+  },
+  {
+    "lat": 23.2227,
+    "lon": 53.8554,
+    "Placename": "Liwa Dune Sea (Northeast Plateau), UAE",
+    "Category": "Desert",
+    "Description": "Northeast plateau dunes add layered ridges to Arrakis compositions.",
+    "SceneId": "DUNE2021-ARRAKIS-84",
+    "Cfactor": 0.52,
+    "pictures": []
+  },
+  {
+    "lat": 23.1922,
+    "lon": 53.8744,
+    "Placename": "Liwa Dune Sea (East Plateau), UAE",
+    "Category": "Desert",
+    "Description": "East plateau dunes are visible in Arrakis sky-heavy wide shots.",
+    "SceneId": "DUNE2021-ARRAKIS-85",
+    "Cfactor": 0.52,
+    "pictures": []
+  },
+  {
+    "lat": 23.1569,
+    "lon": 53.8897,
+    "Placename": "Liwa Dune Sea (Far East), UAE",
+    "Category": "Desert",
+    "Description": "Far east dunes supply long, uninterrupted horizons for Arrakis vistas.",
+    "SceneId": "DUNE2021-ARRAKIS-86",
+    "Cfactor": 0.51,
+    "pictures": []
+  },
+  {
+    "lat": 23.1238,
+    "lon": 53.8891,
+    "Placename": "Liwa Dune Sea (East Basin), UAE",
+    "Category": "Desert",
+    "Description": "East basin dunes were used for Arrakis travel montage plates.",
+    "SceneId": "DUNE2021-ARRAKIS-87",
+    "Cfactor": 0.51,
+    "pictures": []
+  },
+  {
+    "lat": 23.0966,
+    "lon": 53.8791,
+    "Placename": "Liwa Dune Sea (Southeast Basin), UAE",
+    "Category": "Desert",
+    "Description": "Southeast basin dunes show up in Arrakis deep-desert imagery.",
+    "SceneId": "DUNE2021-ARRAKIS-88",
+    "Cfactor": 0.51,
+    "pictures": []
+  },
+  {
+    "lat": 23.0682,
+    "lon": 53.8688,
+    "Placename": "Liwa Dune Sea (Central East Basin), UAE",
+    "Category": "Desert",
+    "Description": "Central east basin dunes add textured ridges to Arrakis shots.",
+    "SceneId": "DUNE2021-ARRAKIS-89",
+    "Cfactor": 0.51,
+    "pictures": []
+  },
+  {
+    "lat": 23.0362,
+    "lon": 53.8504,
+    "Placename": "Liwa Dune Sea (Central South Basin), UAE",
+    "Category": "Desert",
+    "Description": "Central south basin dunes appear in Arrakis dune sea plates.",
+    "SceneId": "DUNE2021-ARRAKIS-90",
+    "Cfactor": 0.51,
+    "pictures": []
+  },
+  {
+    "lat": 23.0028,
+    "lon": 53.8441,
+    "Placename": "Liwa Dune Sea (South Plateau), UAE",
+    "Category": "Desert",
+    "Description": "South plateau dunes supply Arrakis wide plates with high-crest dunes.",
+    "SceneId": "DUNE2021-ARRAKIS-91",
+    "Cfactor": 0.51,
+    "pictures": []
+  }
+]

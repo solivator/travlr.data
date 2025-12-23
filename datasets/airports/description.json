@@ -1,0 +1,10 @@
+{
+  "id": "airports",
+  "name": "Global Airports",
+  "type": "point",
+  "category": "Transport",
+  "index": 16,
+  "title": "Worldwide airports and heliports",
+  "description": "Global airport points with codes, coordinates, time zones, and flightability flags for mapping and routing contexts.",
+  "markercount": 10352
+}

@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Area 51 Perimeter Viewpoint",
+    "location": "Tikaboo Valley, Nevada, USA",
+    "country": "United States",
+    "lat": 37.2647,
+    "lon": -115.2479,
+    "type": "restricted perimeter",
+    "notes": "Popular desert turnout for viewing the secure Groom Lake/Area 51 facility from public land along the Extraterrestrial Highway.",
+    "cFactor": 0.78
+  },
+  {
+    "name": "Roswell UFO Museum",
+    "location": "Roswell, New Mexico, USA",
+    "country": "United States",
+    "lat": 33.3943,
+    "lon": -104.5225,
+    "type": "museum",
+    "notes": "International UFO Museum and Research Center dedicated to the 1947 Roswell incident and global UFO lore.",
+    "cFactor": 0.9
+  },
+  {
+    "name": "Phoenix Lights Vantage",
+    "location": "Phoenix, Arizona, USA",
+    "country": "United States",
+    "lat": 33.45,
+    "lon": -112.074,
+    "type": "sighting memorial",
+    "notes": "Downtown vantage used by enthusiasts to recount the mass 1997 'Phoenix Lights' sighting across the Valley of the Sun.",
+    "cFactor": 0.72
+  },
+  {
+    "name": "Rendlesham Forest Trail",
+    "location": "Suffolk, England, UK",
+    "country": "United Kingdom",
+    "lat": 52.093,
+    "lon": 1.4156,
+    "type": "sighting trail",
+    "notes": "Waymarked trail through RAF Woodbridge where U.S. Air Force personnel reported close encounters in December 1980.",
+    "cFactor": 0.82
+  },
+  {
+    "name": "Wycliffe Well Roadhouse",
+    "location": "Northern Territory, Australia",
+    "country": "Australia",
+    "lat": -19.3083,
+    "lon": 134.25,
+    "type": "roadside stop",
+    "notes": "Self-proclaimed UFO capital of Australia with themed murals and frequent skywatcher stops along the Stuart Highway.",
+    "cFactor": 0.7
+  },
+  {
+    "name": "Warminster Cradle Hill",
+    "location": "Wiltshire, England, UK",
+    "country": "United Kingdom",
+    "lat": 51.202,
+    "lon": -2.209,
+    "type": "skywatch hill",
+    "notes": "Ridge overlooking Warminster linked to the 1960s 'Thing' reports and later UFO skywatch gatherings.",
+    "cFactor": 0.68
+  },
+  {
+    "name": "Bonnybridge UFO Hotspot",
+    "location": "Falkirk, Scotland, UK",
+    "country": "United Kingdom",
+    "lat": 56.0004,
+    "lon": -3.8881,
+    "type": "town",
+    "notes": "Central Belt town nicknamed part of the 'Falkirk Triangle' for high volumes of reported sightings since the late 1980s.",
+    "cFactor": 0.7
+  },
+  {
+    "name": "Varginha ET Memorial",
+    "location": "Varginha, Minas Gerais, Brazil",
+    "country": "Brazil",
+    "lat": -21.551,
+    "lon": -45.436,
+    "type": "landmark",
+    "notes": "UFO-shaped water tower commemorating the 1996 Varginha incident that sparked national media attention.",
+    "cFactor": 0.8
+  },
+  {
+    "name": "Kelly-Hopkinsville Encounter Site",
+    "location": "Kelly, Kentucky, USA",
+    "country": "United States",
+    "lat": 36.9656,
+    "lon": -87.4967,
+    "type": "farm site",
+    "notes": "Rural homestead tied to the 1955 'goblin' siege that inspired portions of Close Encounters folklore and modern festivals.",
+    "cFactor": 0.74
+  },
+  {
+    "name": "Socorro Landing Site",
+    "location": "Socorro, New Mexico, USA",
+    "country": "United States",
+    "lat": 34.0522,
+    "lon": -106.8967,
+    "type": "sighting site",
+    "notes": "Arroyo outside Socorro where police officer Lonnie Zamora reported a close encounter with an egg-shaped craft in 1964.",
+    "cFactor": 0.86
+  },
+  {
+    "name": "McMinnville Photo Spot",
+    "location": "McMinnville, Oregon, USA",
+    "country": "United States",
+    "lat": 45.21,
+    "lon": -123.192,
+    "type": "photo site",
+    "notes": "Farm outside McMinnville where Paul and Evelyn Trent captured the famous 1950 UFO photographs celebrated at UFO Fest.",
+    "cFactor": 0.83
+  },
+  {
+    "name": "Kecksburg UFO Memorial",
+    "location": "Mount Pleasant Township, Pennsylvania, USA",
+    "country": "United States",
+    "lat": 40.1845,
+    "lon": -79.4604,
+    "type": "memorial",
+    "notes": "Replica acorn-shaped craft honoring witnesses of the 1965 fireball and alleged military retrieval in rural Pennsylvania.",
+    "cFactor": 0.79
+  },
+  {
+    "name": "Westall UFO Park",
+    "location": "Clayton South, Victoria, Australia",
+    "country": "Australia",
+    "lat": -37.9517,
+    "lon": 145.1295,
+    "type": "memorial park",
+    "notes": "Reserve with a circular marker recalling the 1966 Westall high school sighting witnessed by students and teachers.",
+    "cFactor": 0.81
+  },
+  {
+    "name": "UFO Watchtower",
+    "location": "San Luis Valley, Colorado, USA",
+    "country": "United States",
+    "lat": 37.7397,
+    "lon": -105.8766,
+    "type": "skywatch tower",
+    "notes": "Observation platform and campground built for UFO watching atop the high desert near the Great Sand Dunes.",
+    "cFactor": 0.77
+  },
+  {
+    "name": "Devils Tower",
+    "location": "Crook County, Wyoming, USA",
+    "country": "United States",
+    "lat": 44.5902,
+    "lon": -104.7146,
+    "type": "landmark",
+    "notes": "Monolith featured in Close Encounters of the Third Kind and a pilgrimage point for UFO pop-culture fans.",
+    "cFactor": 0.88
+  },
+  {
+    "name": "Marfa Lights Viewing Area",
+    "location": "Marfa, Texas, USA",
+    "country": "United States",
+    "lat": 30.3091,
+    "lon": -104.0209,
+    "type": "lights viewing",
+    "notes": "Official roadside platform for observing the Marfa Lights, often folded into UFO lore and high-strangeness tourism.",
+    "cFactor": 0.76
+  },
+  {
+    "name": "St. Paul UFO Landing Pad",
+    "location": "St. Paul, Alberta, Canada",
+    "country": "Canada",
+    "lat": 53.9909,
+    "lon": -111.291,
+    "type": "landmark",
+    "notes": "Concrete landing pad and tourist attraction built in 1967 to welcome extraterrestrial visitors.",
+    "cFactor": 0.84
+  },
+  {
+    "name": "Extraterrestrial Highway Sign",
+    "location": "Rachel, Nevada, USA",
+    "country": "United States",
+    "lat": 37.6461,
+    "lon": -115.742,
+    "type": "roadside sign",
+    "notes": "Iconic Nevada State Route 375 sign marking the 'Extraterrestrial Highway' corridor.",
+    "cFactor": 0.8
+  },
+  {
+    "name": "Little A'Le'Inn",
+    "location": "Rachel, Nevada, USA",
+    "country": "United States",
+    "lat": 37.6469,
+    "lon": -115.7426,
+    "type": "roadside stop",
+    "notes": "Famous alien-themed motel and diner serving Area 51 enthusiasts and skywatchers.",
+    "cFactor": 0.82
+  },
+  {
+    "name": "International UFO Museum Library",
+    "location": "Roswell, New Mexico, USA",
+    "country": "United States",
+    "lat": 33.394,
+    "lon": -104.5222,
+    "type": "archive",
+    "notes": "Research library and archive adjacent to the Roswell museum with UFO case files and exhibits.",
+    "cFactor": 0.75
+  },
+  {
+    "name": "Trinity Site UFO Crash Marker",
+    "location": "San Antonio, New Mexico, USA",
+    "country": "United States",
+    "lat": 34.238,
+    "lon": -106.2185,
+    "type": "legend marker",
+    "notes": "Roadside marker and local legend tied to the purported 1945 Trinity UFO crash story.",
+    "cFactor": 0.6
+  },
+  {
+    "name": "Mount Adams UFO Trail",
+    "location": "Gifford Pinchot National Forest, Washington, USA",
+    "country": "United States",
+    "lat": 46.2022,
+    "lon": -121.4905,
+    "type": "trail",
+    "notes": "Hiking route in the South Cascades often associated with UFO sightings and skywatch groups.",
+    "cFactor": 0.64
+  },
+  {
+    "name": "Brown Mountain Lights Overlook",
+    "location": "Morganton, North Carolina, USA",
+    "country": "United States",
+    "lat": 35.7793,
+    "lon": -81.7316,
+    "type": "lights overlook",
+    "notes": "Viewing area for the Brown Mountain Lights, a long-standing lights mystery with UFO lore.",
+    "cFactor": 0.71
+  },
+  {
+    "name": "Hessdalen Lights Observation Station",
+    "location": "Hessdalen, Norway",
+    "country": "Norway",
+    "lat": 62.851,
+    "lon": 11.255,
+    "type": "observation site",
+    "notes": "Research station and viewing sites for the Hessdalen Lights, frequently discussed in UFO circles.",
+    "cFactor": 0.83
+  },
+  {
+    "name": "UFO Landing Site Memorial Park",
+    "location": "Yamanaashi Prefecture, Japan",
+    "country": "Japan",
+    "lat": 35.493,
+    "lon": 138.773,
+    "type": "memorial park",
+    "notes": "Park with UFO motifs and monuments near Mt. Fuji celebrating local alien folklore.",
+    "cFactor": 0.62
+  },
+  {
+    "name": "Maslin Beach UFO Incident Trailhead",
+    "location": "Maslin Beach, South Australia, Australia",
+    "country": "Australia",
+    "lat": -35.2287,
+    "lon": 138.4796,
+    "type": "trailhead",
+    "notes": "Coastal access point tied to the 1988 Maslin Beach UFO encounter story in local lore.",
+    "cFactor": 0.55
+  },
+  {
+    "name": "Berkshire UFO Gateway Marker",
+    "location": "Great Barrington, Massachusetts, USA",
+    "country": "United States",
+    "lat": 42.1957,
+    "lon": -73.362,
+    "type": "marker",
+    "notes": "Marker and local lore hub referencing the 1969 Berkshire UFO incident.",
+    "cFactor": 0.66
+  },
+  {
+    "name": "Shag Harbour UFO Interpretation Centre",
+    "location": "Shag Harbour, Nova Scotia, Canada",
+    "country": "Canada",
+    "lat": 43.5098,
+    "lon": -65.6309,
+    "type": "museum",
+    "notes": "Small interpretation center commemorating the 1967 Shag Harbour UFO crash report.",
+    "cFactor": 0.78
+  },
+  {
+    "name": "Valensole UFO Encounter Site",
+    "location": "Valensole, Provence, France",
+    "country": "France",
+    "lat": 43.8363,
+    "lon": 5.9836,
+    "type": "encounter site",
+    "notes": "Lavender field area tied to the 1965 Valensole close encounter report.",
+    "cFactor": 0.73
+  },
+  {
+    "name": "Trans-en-Provence UFO Landmark",
+    "location": "Trans-en-Provence, France",
+    "country": "France",
+    "lat": 43.5052,
+    "lon": 6.4879,
+    "type": "landmark",
+    "notes": "Village associated with the 1981 Trans-en-Provence case investigated by GEPAN.",
+    "cFactor": 0.74
+  },
+  {
+    "name": "Ariel School Encounter Field",
+    "location": "Ruwa, Zimbabwe",
+    "country": "Zimbabwe",
+    "lat": -17.8884,
+    "lon": 31.2445,
+    "type": "encounter site",
+    "notes": "School grounds tied to the 1994 Ariel School UFO encounter reported by students.",
+    "cFactor": 0.72
+  },
+  {
+    "name": "Ilkley Moor UFO Spot",
+    "location": "West Yorkshire, England, UK",
+    "country": "United Kingdom",
+    "lat": 53.9076,
+    "lon": -1.8516,
+    "type": "moorland",
+    "notes": "Moorland area linked to the 1987 Ilkley Moor 'alien' photo story.",
+    "cFactor": 0.61
+  },
+  {
+    "name": "Broad Haven Triangle Marker",
+    "location": "Pembrokeshire, Wales, UK",
+    "country": "United Kingdom",
+    "lat": 51.8035,
+    "lon": -5.1199,
+    "type": "marker",
+    "notes": "Village in the Broad Haven triangle known for 1970s schoolchildren UFO sighting reports.",
+    "cFactor": 0.69
+  },
+  {
+    "name": "UFO Pagoda Lookout",
+    "location": "Hualien County, Taiwan",
+    "country": "Taiwan",
+    "lat": 24.0017,
+    "lon": 121.6015,
+    "type": "lookout",
+    "notes": "Alien-themed lookout and pagoda-style structure popular in local UFO tourism.",
+    "cFactor": 0.58
+  },
+  {
+    "name": "Mount Parnassus UFO Zone",
+    "location": "Boeotia, Greece",
+    "country": "Greece",
+    "lat": 38.5331,
+    "lon": 22.8441,
+    "type": "legend zone",
+    "notes": "Mountain area with recurring UFO sighting lore in regional skywatch communities.",
+    "cFactor": 0.57
+  },
+  {
+    "name": "Glastonbury UFO Memorial",
+    "location": "Glastonbury, England, UK",
+    "country": "United Kingdom",
+    "lat": 51.1473,
+    "lon": -2.7166,
+    "type": "memorial",
+    "notes": "Town with recurring UFO lore and themed events; marker represents local pilgrimage spots around the Tor.",
+    "cFactor": 0.6
+  },
+  {
+    "name": "Saint-Pie UFO Landing Pad",
+    "location": "Saint-Pie, Quebec, Canada",
+    "country": "Canada",
+    "lat": 45.5024,
+    "lon": -72.9132,
+    "type": "landmark",
+    "notes": "Small town known for UFO murals and a ceremonial landing pad tied to local festivals.",
+    "cFactor": 0.7
+  },
+  {
+    "name": "Roswell UFO Festival Grounds",
+    "location": "Roswell, New Mexico, USA",
+    "country": "United States",
+    "lat": 33.3948,
+    "lon": -104.5236,
+    "type": "festival site",
+    "notes": "Downtown festival area where the annual UFO Festival anchors alien-themed parades and exhibits.",
+    "cFactor": 0.73
+  },
+  {
+    "name": "Joshua Tree Integratron",
+    "location": "Landers, California, USA",
+    "country": "United States",
+    "lat": 34.2463,
+    "lon": -116.4192,
+    "type": "architecture",
+    "notes": "Futuristic dome built with UFO-inspired lore and sound baths near Joshua Tree.",
+    "cFactor": 0.79
+  },
+  {
+    "name": "Mount Shasta UFO Vortex",
+    "location": "Mount Shasta, California, USA",
+    "country": "United States",
+    "lat": 41.3099,
+    "lon": -122.31,
+    "type": "legend site",
+    "notes": "Spiritual tourism hub with recurring UFO and Lemurian lore around Mount Shasta.",
+    "cFactor": 0.66
+  },
+  {
+    "name": "Sedona UFO Skywatch Point",
+    "location": "Sedona, Arizona, USA",
+    "country": "United States",
+    "lat": 34.8697,
+    "lon": -111.76,
+    "type": "skywatch site",
+    "notes": "Popular skywatch locations near Sedona's vortex trails used by UFO tour groups.",
+    "cFactor": 0.69
+  },
+  {
+    "name": "Skinwalker Ranch Viewpoint",
+    "location": "Ballard, Utah, USA",
+    "country": "United States",
+    "lat": 40.2573,
+    "lon": -109.9013,
+    "type": "viewpoint",
+    "notes": "Public roadside viewpoint for the famed ranch linked to paranormal and UFO lore.",
+    "cFactor": 0.7
+  },
+  {
+    "name": "Wright-Patterson UFO Legend Hub",
+    "location": "Dayton, Ohio, USA",
+    "country": "United States",
+    "lat": 39.8137,
+    "lon": -84.0485,
+    "type": "legend hub",
+    "notes": "Area tied to Roswell debris transfer legends and UFO conspiracy narratives.",
+    "cFactor": 0.58
+  },
+  {
+    "name": "Pine Bush UFO Trail",
+    "location": "Pine Bush, New York, USA",
+    "country": "United States",
+    "lat": 41.6084,
+    "lon": -74.299,
+    "type": "trail",
+    "notes": "Small-town UFO capital with themed walking routes and skywatching gatherings.",
+    "cFactor": 0.72
+  },
+  {
+    "name": "Aurora UFO Cemetery Marker",
+    "location": "Aurora, Texas, USA",
+    "country": "United States",
+    "lat": 33.0601,
+    "lon": -97.5062,
+    "type": "cemetery marker",
+    "notes": "Local cemetery marker tied to the 1897 Aurora UFO crash legend.",
+    "cFactor": 0.67
+  },
+  {
+    "name": "Delaware Water Gap UFO Lookout",
+    "location": "Delaware Water Gap, Pennsylvania, USA",
+    "country": "United States",
+    "lat": 40.9795,
+    "lon": -75.1425,
+    "type": "lookout",
+    "notes": "Scenic overlook used by regional skywatch groups for UFO watching.",
+    "cFactor": 0.55
+  },
+  {
+    "name": "Chilbolton Crop Circle Dish",
+    "location": "Chilbolton, Hampshire, England, UK",
+    "country": "United Kingdom",
+    "lat": 51.1454,
+    "lon": -1.4371,
+    "type": "landmark",
+    "notes": "Radio telescope near crop-circle fields linked to alien-signature folklore.",
+    "cFactor": 0.65
+  },
+  {
+    "name": "Avebury Crop Circle Fields",
+    "location": "Avebury, Wiltshire, England, UK",
+    "country": "United Kingdom",
+    "lat": 51.4286,
+    "lon": -1.8566,
+    "type": "fields",
+    "notes": "Ancient stone circle landscape surrounded by crop-circle hotspots in UFO tourism circuits.",
+    "cFactor": 0.63
+  },
+  {
+    "name": "Rendelsham UFO Visitor Center",
+    "location": "Rendlesham, England, UK",
+    "country": "United Kingdom",
+    "lat": 52.0935,
+    "lon": 1.4165,
+    "type": "visitor center",
+    "notes": "Local visitor info point for the Rendlesham Forest UFO trail and exhibits.",
+    "cFactor": 0.59
+  },
+  {
+    "name": "Tunguska Event Memorial",
+    "location": "Tunguska, Krasnoyarsk Krai, Russia",
+    "country": "Russia",
+    "lat": 60.888,
+    "lon": 101.894,
+    "type": "memorial",
+    "notes": "Remote memorial referencing the 1908 Tunguska event often cited in UFO and impact theories.",
+    "cFactor": 0.54
+  },
+  {
+    "name": "Komi UFO Zone Marker",
+    "location": "Vorkuta, Komi Republic, Russia",
+    "country": "Russia",
+    "lat": 67.497,
+    "lon": 64.061,
+    "type": "legend zone",
+    "notes": "Northern region associated with sparse reports of aerial anomalies and lore.",
+    "cFactor": 0.45
+  },
+  {
+    "name": "UFO Valley Trail",
+    "location": "Calama, Chile",
+    "country": "Chile",
+    "lat": -22.458,
+    "lon": -68.927,
+    "type": "trail",
+    "notes": "High-desert tour route in northern Chile marketed for UFO watching.",
+    "cFactor": 0.62
+  },
+  {
+    "name": "Atacama Skywatch Camp",
+    "location": "San Pedro de Atacama, Chile",
+    "country": "Chile",
+    "lat": -22.9167,
+    "lon": -68.1997,
+    "type": "camp",
+    "notes": "Desert stargazing camps frequently billed for UFO sightings in the Atacama.",
+    "cFactor": 0.6
+  },
+  {
+    "name": "UFO Landing Site of R\u00e5ne\u00e5",
+    "location": "R\u00e5ne\u00e5, Sweden",
+    "country": "Sweden",
+    "lat": 65.8521,
+    "lon": 22.3006,
+    "type": "landing site",
+    "notes": "Northern Sweden village with a ceremonial UFO landing pad and local lore.",
+    "cFactor": 0.57
+  },
+  {
+    "name": "Hickson-Transom Encounter Park",
+    "location": "Pascagoula, Mississippi, USA",
+    "country": "United States",
+    "lat": 30.3641,
+    "lon": -88.5561,
+    "type": "memorial park",
+    "notes": "Riverside park honoring the 1973 Pascagoula UFO abduction report.",
+    "cFactor": 0.72
+  },
+  {
+    "name": "Exeter UFO Festival Site",
+    "location": "Exeter, New Hampshire, USA",
+    "country": "United States",
+    "lat": 42.9814,
+    "lon": -70.9476,
+    "type": "festival site",
+    "notes": "Town linked to the 1965 Exeter UFO incident with periodic commemorations.",
+    "cFactor": 0.68
+  },
+  {
+    "name": "Oregon Caves UFO Lookout",
+    "location": "Cave Junction, Oregon, USA",
+    "country": "United States",
+    "lat": 42.1034,
+    "lon": -123.4069,
+    "type": "lookout",
+    "notes": "Forest overlook used by local UFO watchers in southern Oregon.",
+    "cFactor": 0.5
+  },
+  {
+    "name": "Chehalis UFO Monument",
+    "location": "Chehalis, Washington, USA",
+    "country": "United States",
+    "lat": 46.662,
+    "lon": -122.964,
+    "type": "monument",
+    "notes": "Marker tied to the 1947 Maury Island and regional sightings lore.",
+    "cFactor": 0.56
+  },
+  {
+    "name": "Maury Island Incident Shoreline",
+    "location": "Vashon, Washington, USA",
+    "country": "United States",
+    "lat": 47.3836,
+    "lon": -122.4834,
+    "type": "incident shoreline",
+    "notes": "Shoreline associated with the 1947 Maury Island UFO incident.",
+    "cFactor": 0.63
+  },
+  {
+    "name": "Levelland UFO Incident Site",
+    "location": "Levelland, Texas, USA",
+    "country": "United States",
+    "lat": 33.5873,
+    "lon": -102.3789,
+    "type": "incident site",
+    "notes": "Town tied to the 1957 Levelland UFO sightings reported by multiple motorists.",
+    "cFactor": 0.71
+  },
+  {
+    "name": "Travis Walton Abduction Trailhead",
+    "location": "Snowflake, Arizona, USA",
+    "country": "United States",
+    "lat": 34.5134,
+    "lon": -110.0784,
+    "type": "trailhead",
+    "notes": "Area associated with the 1975 Travis Walton abduction claim in the Apache-Sitgreaves forests.",
+    "cFactor": 0.65
+  },
+  {
+    "name": "Bentwaters Cold War Museum",
+    "location": "Bentwaters, England, UK",
+    "country": "United Kingdom",
+    "lat": 52.1273,
+    "lon": 1.4082,
+    "type": "museum",
+    "notes": "Museum on the former RAF Bentwaters base, often visited by Rendlesham Forest UFO enthusiasts.",
+    "cFactor": 0.7
+  },
+  {
+    "name": "Ubatuba UFO Fragment Legend",
+    "location": "Ubatuba, S\u00e3o Paulo, Brazil",
+    "country": "Brazil",
+    "lat": -23.4336,
+    "lon": -45.0712,
+    "type": "legend site",
+    "notes": "Beach town tied to the 1957 Ubatuba UFO fragment story.",
+    "cFactor": 0.59
+  },
+  {
+    "name": "Colares UFO Flap Memorial",
+    "location": "Colares, Par\u00e1, Brazil",
+    "country": "Brazil",
+    "lat": -0.9365,
+    "lon": -48.2826,
+    "type": "memorial",
+    "notes": "Island community associated with the 1977 Colares UFO flap and Operation Saucer.",
+    "cFactor": 0.68
+  },
+  {
+    "name": "Bariloche UFO Viewpoint",
+    "location": "San Carlos de Bariloche, Argentina",
+    "country": "Argentina",
+    "lat": -41.1335,
+    "lon": -71.3103,
+    "type": "viewpoint",
+    "notes": "Patagonian mountain lakes area with UFO sighting lore and tourist viewpoints.",
+    "cFactor": 0.55
+  },
+  {
+    "name": "Capilla del Monte UFO Trail",
+    "location": "Capilla del Monte, C\u00f3rdoba, Argentina",
+    "country": "Argentina",
+    "lat": -30.8593,
+    "lon": -64.5251,
+    "type": "trail",
+    "notes": "Town known for Cerro Uritorco and a UFO tourism trail in the Sierras.",
+    "cFactor": 0.74
+  },
+  {
+    "name": "Cerro Uritorco UFO Lookout",
+    "location": "Capilla del Monte, C\u00f3rdoba, Argentina",
+    "country": "Argentina",
+    "lat": -30.9061,
+    "lon": -64.521,
+    "type": "lookout",
+    "notes": "Lookout toward Cerro Uritorco, a hotspot for UFO lore in Argentina.",
+    "cFactor": 0.73
+  },
+  {
+    "name": "Isle of Wight UFO Bench",
+    "location": "Sandown, Isle of Wight, UK",
+    "country": "United Kingdom",
+    "lat": 50.6516,
+    "lon": -1.1626,
+    "type": "memorial",
+    "notes": "Seafront area associated with the 1973 Sandown clown UFO encounter story.",
+    "cFactor": 0.52
+  },
+  {
+    "name": "Charleville Min Min Lights Reserve",
+    "location": "Charleville, Queensland, Australia",
+    "country": "Australia",
+    "lat": -26.4055,
+    "lon": 146.2426,
+    "type": "lights reserve",
+    "notes": "Outback viewing area for the Min Min Lights, part of Australian high-strangeness folklore.",
+    "cFactor": 0.66
+  },
+  {
+    "name": "Nullarbor UFO Observatory",
+    "location": "Nullarbor Plain, South Australia, Australia",
+    "country": "Australia",
+    "lat": -31.4479,
+    "lon": 130.911,
+    "type": "observatory",
+    "notes": "Remote roadhouse observatory with UFO-themed displays on the Nullarbor.",
+    "cFactor": 0.58
+  },
+  {
+    "name": "Kaikoura UFO Encounter Coast",
+    "location": "Kaikoura, New Zealand",
+    "country": "New Zealand",
+    "lat": -42.4024,
+    "lon": 173.6816,
+    "type": "coastline",
+    "notes": "Coastal area linked to the 1978 Kaikoura Lights UFO reports.",
+    "cFactor": 0.7
+  },
+  {
+    "name": "Waipu UFO Festival Grounds",
+    "location": "Waipu, New Zealand",
+    "country": "New Zealand",
+    "lat": -35.9822,
+    "lon": 174.4468,
+    "type": "festival site",
+    "notes": "Town hosting an annual UFO festival tied to the Kaikoura Lights lore.",
+    "cFactor": 0.64
+  },
+  {
+    "name": "Beijing UFO Pagoda Park",
+    "location": "Beijing, China",
+    "country": "China",
+    "lat": 40.0004,
+    "lon": 116.3255,
+    "type": "park",
+    "notes": "Alien-themed park installation and sculpture popular with UFO enthusiasts.",
+    "cFactor": 0.46
+  },
+  {
+    "name": "Nanjing UFO Park",
+    "location": "Nanjing, China",
+    "country": "China",
+    "lat": 32.0584,
+    "lon": 118.7965,
+    "type": "park",
+    "notes": "UFO-themed park area with public art celebrating sci-fi culture.",
+    "cFactor": 0.44
+  },
+  {
+    "name": "Osaka UFO Landing Plaza",
+    "location": "Osaka, Japan",
+    "country": "Japan",
+    "lat": 34.6937,
+    "lon": 135.5023,
+    "type": "plaza",
+    "notes": "City plaza installation with UFO motifs used for sci-fi events.",
+    "cFactor": 0.49
+  },
+  {
+    "name": "Seoul UFO Museum",
+    "location": "Seoul, South Korea",
+    "country": "South Korea",
+    "lat": 37.5665,
+    "lon": 126.978,
+    "type": "museum",
+    "notes": "Small private museum showcasing UFO pop culture and sightings.",
+    "cFactor": 0.43
+  },
+  {
+    "name": "Itacuruba UFO Legend Point",
+    "location": "Itacuruba, Pernambuco, Brazil",
+    "country": "Brazil",
+    "lat": -8.8222,
+    "lon": -38.6994,
+    "type": "legend point",
+    "notes": "Town displaced by dam project but linked to UFO lore and sightings in northeastern Brazil.",
+    "cFactor": 0.52
+  },
+  {
+    "name": "Mag\u00e9 UFO Trail",
+    "location": "Mag\u00e9, Rio de Janeiro, Brazil",
+    "country": "Brazil",
+    "lat": -22.6576,
+    "lon": -43.04,
+    "type": "trail",
+    "notes": "Hiking areas near alleged 2020 UFO sightings that fueled local lore.",
+    "cFactor": 0.47
+  },
+  {
+    "name": "Falkirk Triangle Viewing Point",
+    "location": "Falkirk, Scotland, UK",
+    "country": "United Kingdom",
+    "lat": 56.0014,
+    "lon": -3.7835,
+    "type": "viewpoint",
+    "notes": "Public viewpoint linked to the broader Falkirk Triangle UFO reports.",
+    "cFactor": 0.6
+  },
+  {
+    "name": "UFO Welcome Center",
+    "location": "Bowman, South Carolina, USA",
+    "country": "United States",
+    "lat": 33.3477,
+    "lon": -80.6889,
+    "type": "welcome center",
+    "notes": "Roadside UFO Welcome Center created as a folk art attraction for alien enthusiasts.",
+    "cFactor": 0.76
+  },
+  {
+    "name": "Enterprise UFO Monument",
+    "location": "Enterprise, Alabama, USA",
+    "country": "United States",
+    "lat": 31.3157,
+    "lon": -85.8552,
+    "type": "monument",
+    "notes": "Boll weevil statue area occasionally featured in UFO tour itineraries and local lore.",
+    "cFactor": 0.33
+  },
+  {
+    "name": "Mothman Point Pleasant Museum",
+    "location": "Point Pleasant, West Virginia, USA",
+    "country": "United States",
+    "lat": 38.8466,
+    "lon": -82.1373,
+    "type": "museum",
+    "notes": "Museum dedicated to the Mothman legend, often included in broader UFO and cryptid tours.",
+    "cFactor": 0.5
+  },
+  {
+    "name": "Flatwoods Monster Museum",
+    "location": "Sutton, West Virginia, USA",
+    "country": "United States",
+    "lat": 38.6621,
+    "lon": -80.7109,
+    "type": "museum",
+    "notes": "Small museum commemorating the 1952 Flatwoods Monster encounter.",
+    "cFactor": 0.62
+  },
+  {
+    "name": "Hopkinsville Little Green Men Festival",
+    "location": "Hopkinsville, Kentucky, USA",
+    "country": "United States",
+    "lat": 36.8656,
+    "lon": -87.4886,
+    "type": "festival site",
+    "notes": "Festival grounds celebrating the 1955 Kelly-Hopkinsville encounter.",
+    "cFactor": 0.7
+  },
+  {
+    "name": "Owl Canyon UFO Stone",
+    "location": "Tucson, Arizona, USA",
+    "country": "United States",
+    "lat": 32.2226,
+    "lon": -110.9747,
+    "type": "folklore site",
+    "notes": "Local folklore site linked to owl-shaped UFO sightings in southern Arizona tales.",
+    "cFactor": 0.36
+  },
+  {
+    "name": "Woomera UFO Trail",
+    "location": "Woomera, South Australia, Australia",
+    "country": "Australia",
+    "lat": -31.1999,
+    "lon": 136.8284,
+    "type": "trail",
+    "notes": "Outback town with missile range history and UFO-themed signage and tours.",
+    "cFactor": 0.56
+  },
+  {
+    "name": "Coober Pedy UFO Landmark",
+    "location": "Coober Pedy, South Australia, Australia",
+    "country": "Australia",
+    "lat": -29.013,
+    "lon": 134.7549,
+    "type": "landmark",
+    "notes": "Opal-mining town with alien-themed art and folklore tied to desert skies.",
+    "cFactor": 0.52
+  },
+  {
+    "name": "Mount Zeil UFO Viewpoint",
+    "location": "West MacDonnell Ranges, Northern Territory, Australia",
+    "country": "Australia",
+    "lat": -23.3384,
+    "lon": 131.0418,
+    "type": "viewpoint",
+    "notes": "Remote ridge area referenced in regional UFO sighting stories.",
+    "cFactor": 0.42
+  },
+  {
+    "name": "Pine Gap Alien Lore Stop",
+    "location": "Alice Springs, Northern Territory, Australia",
+    "country": "Australia",
+    "lat": -23.798,
+    "lon": 133.7379,
+    "type": "legend stop",
+    "notes": "Public lookout area tied to Pine Gap conspiracy and UFO lore.",
+    "cFactor": 0.45
+  },
+  {
+    "name": "Mount Warning UFO Ridge",
+    "location": "New South Wales, Australia",
+    "country": "Australia",
+    "lat": -28.4,
+    "lon": 153.27,
+    "type": "ridge",
+    "notes": "Skywatch ridge sometimes highlighted by local UFO groups.",
+    "cFactor": 0.39
+  },
+  {
+    "name": "Hastings UFO Trail",
+    "location": "Hastings, New Zealand",
+    "country": "New Zealand",
+    "lat": -39.6381,
+    "lon": 176.8435,
+    "type": "trail",
+    "notes": "Regional skywatch trail promoted by local UFO societies.",
+    "cFactor": 0.41
+  },
+  {
+    "name": "Taupo UFO Lookout",
+    "location": "Taupo, New Zealand",
+    "country": "New Zealand",
+    "lat": -38.6871,
+    "lon": 176.0702,
+    "type": "lookout",
+    "notes": "Lake Taupo area with UFO sighting folklore and stargazing tourism.",
+    "cFactor": 0.5
+  },
+  {
+    "name": "Aoraki UFO Skywatch",
+    "location": "Aoraki/Mount Cook, New Zealand",
+    "country": "New Zealand",
+    "lat": -43.5968,
+    "lon": 170.1415,
+    "type": "skywatch site",
+    "notes": "Dark-sky reserve area frequented by UFO-themed stargazers.",
+    "cFactor": 0.47
+  },
+  {
+    "name": "Reykjavik UFO Sculpture",
+    "location": "Reykjavik, Iceland",
+    "country": "Iceland",
+    "lat": 64.1466,
+    "lon": -21.9426,
+    "type": "public art",
+    "notes": "Futuristic public art installation referenced by local UFO enthusiasts.",
+    "cFactor": 0.38
+  },
+  {
+    "name": "Hverfjall UFO Lookout",
+    "location": "Myvatn, Iceland",
+    "country": "Iceland",
+    "lat": 65.591,
+    "lon": -16.892,
+    "type": "lookout",
+    "notes": "Volcanic crater lookout with clear skies popular for anomaly watching.",
+    "cFactor": 0.44
+  },
+  {
+    "name": "Loch Ness UFO Watch",
+    "location": "Drumnadrochit, Scotland, UK",
+    "country": "United Kingdom",
+    "lat": 57.3333,
+    "lon": -4.479,
+    "type": "watch point",
+    "notes": "UFO-and-cryptid themed lookout in the Loch Ness tourism corridor.",
+    "cFactor": 0.46
+  },
+  {
+    "name": "Broadhaven UFO School Marker",
+    "location": "Broad Haven, Wales, UK",
+    "country": "United Kingdom",
+    "lat": 51.7812,
+    "lon": -5.1026,
+    "type": "marker",
+    "notes": "Marker near the school linked to 1970s UFO sightings reported by children.",
+    "cFactor": 0.62
+  },
+  {
+    "name": "Kelly UFO Festival Grounds",
+    "location": "Kelly, Kentucky, USA",
+    "country": "United States",
+    "lat": 36.9693,
+    "lon": -87.4921,
+    "type": "festival site",
+    "notes": "Local festival grounds celebrating the Kelly-Hopkinsville encounter.",
+    "cFactor": 0.66
+  },
+  {
+    "name": "Roswell Crash Site Marker",
+    "location": "Corona, New Mexico, USA",
+    "country": "United States",
+    "lat": 34.2695,
+    "lon": -105.5683,
+    "type": "marker",
+    "notes": "Marker near the Foster Ranch region linked to the Roswell incident.",
+    "cFactor": 0.74
+  },
+  {
+    "name": "White Sands UFO Lore Point",
+    "location": "White Sands, New Mexico, USA",
+    "country": "United States",
+    "lat": 32.7791,
+    "lon": -106.1719,
+    "type": "legend point",
+    "notes": "Desert area with recurring UFO lore tied to missile range testing.",
+    "cFactor": 0.5
+  },
+  {
+    "name": "Zuni Pueblo Skywatch",
+    "location": "Zuni, New Mexico, USA",
+    "country": "United States",
+    "lat": 35.072,
+    "lon": -108.848,
+    "type": "skywatch site",
+    "notes": "Rural skywatch site noted in regional UFO tours.",
+    "cFactor": 0.41
+  },
+  {
+    "name": "Lubbock Lights Park",
+    "location": "Lubbock, Texas, USA",
+    "country": "United States",
+    "lat": 33.5779,
+    "lon": -101.8552,
+    "type": "park",
+    "notes": "City park commemorating the 1951 Lubbock Lights sightings.",
+    "cFactor": 0.68
+  },
+  {
+    "name": "Cash-Landrum Incident Marker",
+    "location": "Dayton, Texas, USA",
+    "country": "United States",
+    "lat": 30.0466,
+    "lon": -94.8852,
+    "type": "marker",
+    "notes": "Roadside marker recalling the 1980 Cash-Landrum UFO incident.",
+    "cFactor": 0.58
+  },
+  {
+    "name": "Gulf Breeze UFO Trail",
+    "location": "Gulf Breeze, Florida, USA",
+    "country": "United States",
+    "lat": 30.3571,
+    "lon": -87.1639,
+    "type": "trail",
+    "notes": "Waterfront route tied to 1987 Gulf Breeze UFO photo claims.",
+    "cFactor": 0.54
+  },
+  {
+    "name": "Stephenville UFO Skywatch",
+    "location": "Stephenville, Texas, USA",
+    "country": "United States",
+    "lat": 32.2207,
+    "lon": -98.2023,
+    "type": "skywatch site",
+    "notes": "Rural area linked to the 2008 Stephenville UFO reports.",
+    "cFactor": 0.63
+  },
+  {
+    "name": "Oregon Vortex UFO Stop",
+    "location": "Gold Hill, Oregon, USA",
+    "country": "United States",
+    "lat": 42.4518,
+    "lon": -123.0117,
+    "type": "tour stop",
+    "notes": "Roadside attraction marketed with paranormal and UFO themes.",
+    "cFactor": 0.48
+  },
+  {
+    "name": "Mount Rainier UFO Trailhead",
+    "location": "Ashford, Washington, USA",
+    "country": "United States",
+    "lat": 46.7603,
+    "lon": -122.0285,
+    "type": "trailhead",
+    "notes": "Trail access point to Mount Rainier where early flying saucer sightings were reported.",
+    "cFactor": 0.65
+  },
+  {
+    "name": "Twin Peaks UFO Lookout",
+    "location": "San Francisco, California, USA",
+    "country": "United States",
+    "lat": 37.7544,
+    "lon": -122.4477,
+    "type": "lookout",
+    "notes": "Urban lookout used for skywatch gatherings by local UFO groups.",
+    "cFactor": 0.36
+  },
+  {
+    "name": "Catalina Island UFO Harbor",
+    "location": "Avalon, California, USA",
+    "country": "United States",
+    "lat": 33.3425,
+    "lon": -118.327,
+    "type": "harbor",
+    "notes": "Harbor area linked to island UFO lore and tourist chatter.",
+    "cFactor": 0.4
+  },
+  {
+    "name": "Palomar Observatory Alien Talk",
+    "location": "Palomar Mountain, California, USA",
+    "country": "United States",
+    "lat": 33.3563,
+    "lon": -116.865,
+    "type": "observatory",
+    "notes": "Observatory popular for alien-themed stargazing talks.",
+    "cFactor": 0.55
+  },
+  {
+    "name": "Mount Graham UFO View",
+    "location": "Safford, Arizona, USA",
+    "country": "United States",
+    "lat": 32.701,
+    "lon": -109.888,
+    "type": "viewpoint",
+    "notes": "High-elevation viewpoint with local UFO sighting lore.",
+    "cFactor": 0.43
+  },
+  {
+    "name": "Cattle Decapitation Legends Point",
+    "location": "Gunnison, Colorado, USA",
+    "country": "United States",
+    "lat": 38.5458,
+    "lon": -106.9253,
+    "type": "legend point",
+    "notes": "Rural valley region tied to cattle mutilation and UFO speculation.",
+    "cFactor": 0.49
+  },
+  {
+    "name": "Hessdalen Lights Museum",
+    "location": "Alvdal, Norway",
+    "country": "Norway",
+    "lat": 62.107,
+    "lon": 10.629,
+    "type": "museum",
+    "notes": "Local museum dedicated to Hessdalen Lights research and lore.",
+    "cFactor": 0.72
+  },
+  {
+    "name": "Ostfold UFO Trail",
+    "location": "Ostfold, Norway",
+    "country": "Norway",
+    "lat": 59.2558,
+    "lon": 11.3279,
+    "type": "trail",
+    "notes": "Regional trail promoted for night-sky anomaly watching.",
+    "cFactor": 0.4
+  },
+  {
+    "name": "UFO Rendevous Park",
+    "location": "Tatu\u00ed, S\u00e3o Paulo, Brazil",
+    "country": "Brazil",
+    "lat": -23.355,
+    "lon": -47.8568,
+    "type": "park",
+    "notes": "Community park with alien-themed sculptures and events.",
+    "cFactor": 0.37
+  },
+  {
+    "name": "Guarulhos UFO Trail",
+    "location": "Guarulhos, S\u00e3o Paulo, Brazil",
+    "country": "Brazil",
+    "lat": -23.4629,
+    "lon": -46.5333,
+    "type": "trail",
+    "notes": "Urban trail used for UFO-themed walks and stargazing.",
+    "cFactor": 0.35
+  },
+  {
+    "name": "La Pampa UFO Watch",
+    "location": "Santa Rosa, La Pampa, Argentina",
+    "country": "Argentina",
+    "lat": -36.6203,
+    "lon": -64.2907,
+    "type": "watch site",
+    "notes": "Pampa plains area with reported aerial anomaly sightings.",
+    "cFactor": 0.46
+  },
+  {
+    "name": "El Bolson UFO Trail",
+    "location": "El Bols\u00f3n, Rio Negro, Argentina",
+    "country": "Argentina",
+    "lat": -41.9645,
+    "lon": -71.5325,
+    "type": "trail",
+    "notes": "Patagonian town with UFO lore and skywatch hiking routes.",
+    "cFactor": 0.51
+  },
+  {
+    "name": "Mendoza UFO Lookout",
+    "location": "Mendoza, Argentina",
+    "country": "Argentina",
+    "lat": -32.8895,
+    "lon": -68.8458,
+    "type": "lookout",
+    "notes": "Andes foothills lookout featured in regional UFO tourism.",
+    "cFactor": 0.44
+  },
+  {
+    "name": "UFO Landing Field of Azores",
+    "location": "Terceira Island, Azores, Portugal",
+    "country": "Portugal",
+    "lat": 38.654,
+    "lon": -27.22,
+    "type": "landing field",
+    "notes": "Island field with local stories of aerial anomalies over the Atlantic.",
+    "cFactor": 0.41
+  },
+  {
+    "name": "Wexford UFO Shoreline",
+    "location": "Wexford, Ireland",
+    "country": "Ireland",
+    "lat": 52.3369,
+    "lon": -6.4633,
+    "type": "shoreline",
+    "notes": "Coastal area linked to Irish UFO sighting reports.",
+    "cFactor": 0.39
+  },
+  {
+    "name": "Mull UFO Observatory",
+    "location": "Isle of Mull, Scotland, UK",
+    "country": "United Kingdom",
+    "lat": 56.521,
+    "lon": -5.973,
+    "type": "observatory",
+    "notes": "Dark-sky observatory hosting UFO-themed talks and events.",
+    "cFactor": 0.47
+  },
+  {
+    "name": "Baltic Sea UFO Watch",
+    "location": "Gdansk, Poland",
+    "country": "Poland",
+    "lat": 54.352,
+    "lon": 18.6466,
+    "type": "watch site",
+    "notes": "Coastal watch area with reported aerial anomaly stories.",
+    "cFactor": 0.38
+  },
+  {
+    "name": "Varna UFO Beach",
+    "location": "Varna, Bulgaria",
+    "country": "Bulgaria",
+    "lat": 43.2141,
+    "lon": 27.9147,
+    "type": "beach",
+    "notes": "Black Sea beach featured in local UFO sighting lore.",
+    "cFactor": 0.36
+  },
+  {
+    "name": "Bled UFO Lakeside",
+    "location": "Bled, Slovenia",
+    "country": "Slovenia",
+    "lat": 46.3625,
+    "lon": 14.093,
+    "type": "lakeside",
+    "notes": "Lakeside lookout occasionally used for UFO skywatching.",
+    "cFactor": 0.37
+  },
+  {
+    "name": "Lake Geneva UFO Pier",
+    "location": "Geneva, Switzerland",
+    "country": "Switzerland",
+    "lat": 46.2044,
+    "lon": 6.1432,
+    "type": "pier",
+    "notes": "Lakeside pier hosting sci-fi and UFO-themed gatherings.",
+    "cFactor": 0.35
+  },
+  {
+    "name": "Black Forest UFO Trail",
+    "location": "Freiburg, Germany",
+    "country": "Germany",
+    "lat": 47.999,
+    "lon": 7.8421,
+    "type": "trail",
+    "notes": "Forest trail area with reported lights and UFO lore.",
+    "cFactor": 0.43
+  },
+  {
+    "name": "Exomoon Festival Grounds",
+    "location": "Berlin, Germany",
+    "country": "Germany",
+    "lat": 52.52,
+    "lon": 13.405,
+    "type": "festival site",
+    "notes": "Sci-fi festival site with UFO-themed installations and talks.",
+    "cFactor": 0.36
+  },
+  {
+    "name": "Prague UFO Museum",
+    "location": "Prague, Czech Republic",
+    "country": "Czech Republic",
+    "lat": 50.0755,
+    "lon": 14.4378,
+    "type": "museum",
+    "notes": "Small museum featuring UFO sightings and pop culture exhibits.",
+    "cFactor": 0.4
+  },
+  {
+    "name": "Krakow UFO Cafe",
+    "location": "Krakow, Poland",
+    "country": "Poland",
+    "lat": 50.0647,
+    "lon": 19.945,
+    "type": "cafe",
+    "notes": "UFO-themed cafe often used for meetup events by enthusiasts.",
+    "cFactor": 0.32
+  },
+  {
+    "name": "Odessa UFO Promenade",
+    "location": "Odessa, Ukraine",
+    "country": "Ukraine",
+    "lat": 46.4825,
+    "lon": 30.7233,
+    "type": "promenade",
+    "notes": "Seaside promenade with local UFO lore and stargazing meetups.",
+    "cFactor": 0.34
+  },
+  {
+    "name": "Transylvanian UFO Pass",
+    "location": "Bran, Romania",
+    "country": "Romania",
+    "lat": 45.5155,
+    "lon": 25.367,
+    "type": "mountain pass",
+    "notes": "Mountain pass tied to Transylvanian UFO and paranormal folklore.",
+    "cFactor": 0.4
+  },
+  {
+    "name": "Zamora UFO Monument",
+    "location": "Zamora, Spain",
+    "country": "Spain",
+    "lat": 41.5033,
+    "lon": -5.7446,
+    "type": "monument",
+    "notes": "City monument associated with regional UFO sightings and folklore.",
+    "cFactor": 0.33
+  },
+  {
+    "name": "Canary Islands UFO Lookout",
+    "location": "Tenerife, Canary Islands, Spain",
+    "country": "Spain",
+    "lat": 28.2916,
+    "lon": -16.6291,
+    "type": "lookout",
+    "notes": "Island lookout often referenced in Atlantic UFO sighting lore.",
+    "cFactor": 0.42
+  },
+  {
+    "name": "Turin UFO Park",
+    "location": "Turin, Italy",
+    "country": "Italy",
+    "lat": 45.0703,
+    "lon": 7.6869,
+    "type": "park",
+    "notes": "City park tied to Turin's UFO and esoteric lore.",
+    "cFactor": 0.39
+  }
+]

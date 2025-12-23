@@ -1,0 +1,11 @@
+{
+  "id": "dune-locations",
+  "name": "Dune Filming Locations",
+  "type": "point",
+  "category": "Film & TV",
+  "index": 21,
+  "title": "Real-world Arrakis and Caladan",
+  "description": "Real deserts, city-scale backlots, and interior soundstages explicitly shown in *Dune* (2021), mapped to their real-world coordinates. Entries include SceneId identifiers and Cfactor confidence values.",
+  "markercount": 106,
+  "production": true
+}

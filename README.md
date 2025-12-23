@@ -16,6 +16,7 @@ Explore-ready datasets grouped by theme.
 | Culture | Traditional Dishes and Origins | `traditional_food` | 800 | Iconic recipes mapped to the venues where they originated with confidence notes. |
 | Culture | UNESCO World Heritage Sites – Human | `unesco-human` | 849 | Human-made heritage sites with marker confidence values. |
 | Culture | World Pyramids | `pyramids` | 122 | Ancient through modern pyramids. |
+| Culture | Alien & UFO Landmarks | `alien_world` | 15 | UFO sightings, memorials, and alien-themed landmarks rooted in enthusiast subculture. |
 | Culture | Reddit Travel Locations | `reddit-travel-locations` | 26,479 | Crowd-sourced travel tips and places to visit. |
 | Nature | UNESCO World Heritage Sites – Natural | `unesco-nature` | 203 | Natural heritage sites. |
 | Nature | Meteorite Landings | `meteorites` | 45,716 | Global meteorite strike records. |

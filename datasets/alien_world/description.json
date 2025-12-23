@@ -1,0 +1,10 @@
+{
+  "id": "alien_world",
+  "name": "Alien & UFO Landmarks",
+  "type": "point",
+  "category": "Culture",
+  "index": 19,
+  "title": "UFO sightings and alien folklore sites",
+  "description": "Point dataset of iconic UFO sightings, memorials, and alien-themed landmarks tied to subculture lore and pop culture touchstones. Each entry includes cFactor (0-1 confidence score) reflecting data certainty.",
+  "markercount": 135
+}

@@ -22,6 +22,7 @@ Explore-ready datasets grouped by theme.
 | Nature | Earthquakes | `earthquakes` | 6,107 | Worldwide earthquake events with magnitudes, felt reports, timestamps, and tsunami flags. |
 | Nature | Iconic Waterfalls | `waterfalls` | 1,100 | Waterfalls with height and confidence factors. |
 | Nature | Volcanoes | `vulcanoes` | 425 | Volcano locations with supporting details. |
+| Transport | Global Airports | `airports` | 10,352 | Worldwide airports and heliports with codes, time zones, and flightability flags. |
 | Fiction | Lord of the Rings Filming Locations | `lotr-locations` | 131 | Filming locations for Peter Jackson's trilogy. |
 | Fiction | Star Wars Filming & Story Locations | `star-wars-locations` | 62 | Filming sites and in-universe anchors. |
 | Fiction | Harry Potter Filming Locations | `harry-potter-locations` | 74 | Locations used across the film series. |
